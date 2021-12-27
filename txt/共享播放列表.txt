@@ -1,0 +1,2 @@
+SCTV6 星空购物频道 - 电视频道 - 四川网络广播电视台 - 四川广播电视台,http://m3u8.sctv.com/tvlive/SCTV6/index.m3u8
+SCTV2 文化旅游频道 - 电视频道 - 四川网络广播电视台 - 四川广播电视台,http://m3u8.sctv.com/tvlive/SCTV2/index.m3u8

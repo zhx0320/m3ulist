@@ -1,0 +1,355 @@
+http://ip771.tk/get.php?username=E6IMMZ65S7&password=WAFRRSKZGZ&type=m3u
+http://clientportal-worldiptv.club:8080/get.php?username=987654&password=987654&type=m3u
+http://z.sralm87.com:2082/get.php?username=azizi_320680&password=ghW1CE0B&type=m3u Active 2020/12/19 14:05:50 2021/12/19 14:05:50 0 1 1 "ts"
+http://mytv.fun:8080/get.php?username=748a91oo14&password=dzm4ixtz8b&type=m3u Active 2021/3/4 11:53:12 2022/3/4 11:53:12 0 0 1 "m3u8","ts","rtmp"
+http://mytv.fun:8080/get.php?username=ypzfnjybt&password=seg16p2sq&type=m3u Active 2020/3/11 22:55:38 2022/3/11 22:55:38 0 0 1 "m3u8","ts","rtmp"
+http://ukvip.viptvapp.com:25443/get.php?username=VvyoaUsXcva&password=weoWVTmFTQ&type=m3u Active 2020/7/25 12:43:03 2022/7/26 21:00:00 0 0 1 "m3u8","ts"
+http://ukvip.viptvapp.com:25443/get.php?username=V5C4Fya2dC6y&password=ibgGvYhNDA&type=m3u Active 2019/12/21 18:01:02 2022/12/20 22:00:00 0 0 1 "m3u8","ts"
+http://ukvip.viptvapp.com:25443/get.php?username=V548FD4fgK9e&password=8QzsKFtVTd&type=m3u Active 2020/10/27 7:50:01 2022/4/29 21:00:00 0 0 1 "m3u8","ts"
+http://ukvip.viptvapp.com:25443/get.php?username=V50p1ktlUucC&password=aA0Nu03aNf&type=m3u Active 2019/9/18 15:55:01 2022/9/16 21:00:00 0 0 1 "m3u8","ts"
+http://ukvip.viptvapp.com:25443/get.php?username=V20bHbd0IQ6Ph&password=z2tTbdDdOV&type=m3u Active 2021/7/3 13:59:03 2022/7/2 21:00:00 0 0 1 "m3u8","ts"
+http://ukvip.viptvapp.com:25443/get.php?username=MAGgpYVmsdo63&password=ujki456677&type=m3u Active 2020/5/8 8:09:53 2022/6/19 8:12:13 0 0 1 "m3u8","ts"
+http://ukvip.viptvapp.com:25443/get.php?username=00:1A:79:46:41:4F&password=yWfiJ9LpBi&type=m3u Active 2019/3/18 20:00:29 2022/5/11 21:00:00 0 0 2 "m3u8","ts"
+http://tv.factoryiptv.com/get.php?username=Denis111&password=Denis111&type=m3u Active 2019/11/2 13:50:30 2021/11/7 17:20:32 0 1 1 "m3u8","ts","rtmp"
+http://rv.therevenge.co/get.php?username=7760190131&password=0084607355&type=m3u Active 2021/3/20 11:07:49 2022/3/20 11:07:49 0 0 1 "ts"
+http://rv.therevenge.co/get.php?username=3257821047&password=3038483225&type=m3u Active 2021/3/13 12:10:34 2022/3/14 12:10:34 0 1 1 "ts"
+http://rv.therevenge.co/get.php?username=2386734184&password=7581472450&type=m3u Active 2021/3/19 16:09:24 2022/3/21 10:15:20 0 0 1 "ts"
+http://rv.therevenge.co/get.php?username=1520069184&password=1520796549&type=m3u Active 2021/6/13 12:30:09 2022/6/14 12:30:09 0 0 1 "ts"
+http://rv.imax.re/get.php?username=9063547242&password=0517696725&type=m3u Active 2020/12/6 21:50:15 2021/12/6 21:50:15 0 1 1 "ts"
+http://rv.imax.re/get.php?username=3Tst9ZqgUA&password=2dqWR5IiMh&type=m3u Active 2020/10/19 11:51:28 2021/10/20 11:51:28 0 1 1 "m3u8","ts","rtmp"
+http://pn.tvott.info/get.php?username=152001332635095&password=152083720231541&type=m3u Active 2021/8/27 8:52:34 2022/8/27 8:52:34 0 1 1 "ts"
+http://pn.tvott.info/get.php?username=6196309728&password=8099338185&type=m3u Active 2021/5/10 17:26:13 2022/3/29 17:26:00 1 0 1 "ts"
+http://pn.tvott.info/get.php?username=8233534568&password=5283335569&type=m3u Active 2021/1/26 18:21:54 2022/1/26 18:21:54 0 0 1 "ts"
+http://pn.tvott.info/get.php?username=7903530954&password=8135386615&type=m3u Active 2021/6/10 14:08:39 2022/6/10 14:08:39 0 0 1 "ts"
+http://pn.tvott.info/get.php?username=6307119182&password=4814674190&type=m3u Active 2021/3/9 19:29:54 2022/3/9 19:29:54 0 0 1 "ts"
+http://pn.tvott.info/get.php?username=4907282217&password=9557454229&type=m3u Active 2021/4/23 18:20:48 2022/4/24 18:20:48 0 1 1 "ts"
+http://pn.tvott.info/get.php?username=4381750578&password=1165292281&type=m3u Active 2021/1/2 11:31:55 2022/5/2 10:31:55 0 0 1 "ts"
+http://pn.tvott.info/get.php?username=1694210654&password=8139449153&type=m3u Active 2020/12/25 21:34:32 2021/12/26 21:34:32 0 0 1 "ts"
+http://pn.tvott.info/get.php?username=152091609362282&password=152050601763615&type=m3u Active 2021/7/18 13:16:27 2022/7/18 13:16:27 0 1 1 "ts"
+http://pn.tvott.info/get.php?username=152028413975392&password=152002763658218&type=m3u Active 2021/6/30 21:10:25 2021/12/4 21:19:02 0 0 1 "ts"
+http://pn.tvott.info/get.php?username=152021232756676&password=152073673046914&type=m3u Active 2021/7/22 19:08:02 2022/7/22 19:08:02 0 0 1 "ts"
+http://pn.tvott.info/get.php?username=152007767172306&password=152024852264872&type=m3u Active 2021/6/29 8:49:39 2022/6/29 8:49:39 0 0 1 "ts"
+http://pn.tvott.info/get.php?username=0254678645&password=0650064531&type=m3u Active 2020/12/26 9:52:34 2022/1/16 19:54:47 0 0 1 "ts"
+http://iptvtree.net:8080/get.php?username=oMnFdj88ij&password=uQjzzncJGN&type=m3u Active 2020/7/4 16:13:24 2031/7/3 23:00:00 0 1 1 "m3u8","ts","rtmp"
+http://iptv.ndasat.com:88/get.php?username=939459167604128&password=939459167604128&type=m3u Active 2021/2/2 17:44:02 2022/2/2 17:44:02 0 1 1 "m3u8","ts","rtmp"
+http://iptv.ndasat.com:88/get.php?username=938359919744527&password=938359919744527&type=m3u Active 2021/5/19 10:10:36 2022/5/19 10:10:36 0 0 1 "m3u8","ts","rtmp"
+http://iptv.ndasat.com:88/get.php?username=937667500583283&password=937667500583283&type=m3u Active 2020/11/1 12:19:35 2021/11/1 12:19:35 0 1 1 "m3u8","ts","rtmp"
+http://iptv.ndasat.com:88/get.php?username=934168114293875&password=934168114293875&type=m3u Active 2021/4/24 13:38:58 2022/4/24 13:38:58 0 1 1 "m3u8","ts"
+http://iptv.ndasat.com:88/get.php?username=933816505768489&password=933816505768489&type=m3u Active 2020/10/20 22:03:36 2021/10/20 22:03:36 0 0 1 "m3u8","ts","rtmp"
+http://iptv.ndasat.com:88/get.php?username=933421783362118&password=933421783362118&type=m3u Active 2021/3/4 12:14:20 2022/3/4 12:14:20 0 0 1 "m3u8","ts","rtmp"
+http://iptv.ndasat.com:88/get.php?username=932588637803789&password=932588637803789&type=m3u Active 2020/11/6 19:01:27 2021/11/6 19:01:27 0 0 1 "m3u8","ts","rtmp"
+http://iptv.ndasat.com:88/get.php?username=932499794508130&password=932499794508130&type=m3u Active 2020/11/5 19:18:55 2021/11/5 19:18:55 0 0 1 "m3u8","ts","rtmp"
+http://iptv.ndasat.com:88/get.php?username=932190417387965&password=932190417387965&type=m3u Active 2020/10/19 14:15:18 2021/10/19 14:15:18 0 0 1 "m3u8","ts","rtmp"
+http://iptv.ndasat.com:88/get.php?username=931898553859131&password=931898553859131&type=m3u Active 2020/10/24 15:59:10 2021/10/24 15:59:10 0 0 1 "m3u8","ts","rtmp"
+http://iptv.ndasat.com:88/get.php?username=931412386859588&password=931412386859588&type=m3u Active 2020/10/19 18:29:02 2021/10/19 18:29:02 0 0 1 "m3u8","ts","rtmp"
+http://iptv.ndasat.com:88/get.php?username=930874714182491&password=930874714182491&type=m3u Active 2020/12/17 17:20:49 2021/12/17 17:20:49 0 0 1 "m3u8","ts","rtmp"
+http://iptv.ndasat.com:88/get.php?username=557204394464218&password=557204394464218&type=m3u Active 2021/1/31 14:07:34 2022/1/31 14:07:34 0 0 1 "m3u8","ts"
+http://iptv.ndasat.com:88/get.php?username=554729766655717&password=554729766655717&type=m3u Active 2021/4/14 15:01:53 2022/4/14 15:01:53 0 0 1 "m3u8","ts"
+http://iptv.ndasat.com:88/get.php?username=229704818038853&password=229704818038853&type=m3u Active 2021/1/26 17:37:11 2022/1/26 17:37:11 0 1 1 "m3u8","ts"
+http://iptv.ndasat.com:88/get.php?username=229401692640454&password=229401692640454&type=m3u Active 2020/12/1 18:11:43 2021/12/1 18:11:43 0 0 1 "m3u8","ts","rtmp"
+http://iptv.ndasat.com:88/get.php?username=229135724704425&password=229135724704425&type=m3u Active 2020/12/22 21:03:19 2021/12/22 21:03:19 0 0 1 "m3u8","ts","rtmp"
+http://iptv.ndasat.com:88/get.php?username=229010032554588&password=229010032554588&type=m3u Active 2020/12/31 13:04:52 2021/12/31 13:04:52 0 0 1 "m3u8","ts"
+http://iptv.ndasat.com:88/get.php?username=227816429266803&password=227816429266803&type=m3u Active 2020/11/20 16:56:41 2021/11/20 16:56:41 0 0 1 "m3u8","ts","rtmp"
+http://iptv.ndasat.com:88/get.php?username=225370354934168&password=225370354934168&type=m3u Active 2020/11/14 18:22:59 2021/11/14 18:22:59 0 0 1 "m3u8","ts","rtmp"
+http://iptv.ndasat.com:88/get.php?username=224535547339016&password=224535547339016&type=m3u Active 2021/3/25 18:25:29 2022/3/25 18:25:29 0 0 1 "m3u8","ts","rtmp"
+http://iptv.ndasat.com:88/get.php?username=224205899322800&password=224205899322800&type=m3u Active 2020/11/29 15:36:53 2021/11/29 15:36:53 0 0 1 "m3u8","ts"
+Arabic / Middle East
+http://93.109.225.106:8001/playlist.m3u8
+http://93.109.225.106:8002/playlist.m3u8
+Kurdistan http://176.10.117.18:8000/playlist.m3u8
+🇮🇷 http://5.255.90.242:5000/playlist.m3u8
+🇮🇷 http://93.109.224.178:8001/playlist.m3u8
+🇹🇳 http://197.13.13.82:8000/playlist.m3u8
+🇹🇷 http://45.94.149.154:8000/playlist.m3u8
+🇹🇷 http://41.224.63.108:7788/playlist.m3u8
+🇹🇷 http://45.94.149.154:8000/playlist.m3u8
+🇹🇷 http://m3u4u.com/m3u/p192y7vex1fw7jwnmeg3
+Global http://iptv.csserv.co:8000/get.php?username=clientr725&password=631739&type=m3u
+Global http://basic-iptvesun.com:8080/get.php?username=carter&password=GUV1bMq2VK&type=m3u
+🇹🇷 http://163.172.39.215:25461/get.php?username=line&password=C4@!a3a1@!w72A&type=m3u
+🇹🇷 http://dreamstariptv.com:8080/get.php?username=mag00:1A:79:29:0E:0B&password=ZLeNYGNrle&type=m3u Active 2020/6/18 7:04:27 2022/6/18 7:04:27 0 1 1 "m3u8","ts"
+🇹🇷 http://dreamstariptv.com:8080/get.php?username=mag00:1A:79:29:0B:0C&password=EvYaxMDy3l&type=m3u Active 2020/5/17 10:43:56 2022/5/17 10:43:56 0 0 1 "m3u8","ts"
+🇹🇷 http://dreamstariptv.com:8080/get.php?username=mag00:1A:79:29:0C:43&password=7HSJW4HGCi&type=m3u Active 2020/12/19 9:19:04 2022/12/19 9:19:04 0 0 1 "ts"
+🇹🇷 http://dreamstariptv.com:8080/get.php?username=mag00:1A:79:29:0E:CA&password=aMKUmc4Uw9&type=m3u Active 2020/12/8 7:18:26 2022/12/8 7:18:26 0 0 1 "ts"
+Asia-Pacific
+🇵🇰 http://110.93.240.198:8000/playlist.m3u8
+🇻🇳 http://103.137.185.241:4000/playlist.m3u8
+🇭🇰 hhttp://103.161.34.153:8000/playlist.m3u8
+🇭🇰 http://103.161.34.153:8001/playlist.m3u8
+🇭🇰 http://103.161.34.153:8002/playlist.m3u8
+🇭🇰 http://14.199.164.20:4001/playlist.m3u8
+🇮🇩 http://103.226.232.199:8003/playlist.m3u8
+🇭🇰 http://42.200.67.163:8090/playlist.m3u8
+🇮🇩 http://202.150.161.254:4000/playlist.m3u8
+🇰🇷 http://1.255.204.45:9981/playlist
+🇮🇳 http://14.199.164.20:4001/playlist.m3u8
+🇰🇷 http://218.232.192.244:9981/playlist
+🇰🇷 http://61.84.33.152:9981/playlist
+🇵🇰 http://103.153.39.34:8000/playlist.m3u8
+🇵🇰 http://58.65.171.202:8000/playlist.m3u8
+🇵🇰 http://27.255.27.123:8001/playlist.m3u8
+🇵🇰 http://27.255.27.123:8002/playlist.m3u8
+🇵🇰 http://27.255.27.123:8003/playlist.m3u8
+🇮🇳 Global http://starshare.live:8080/get.php?username=437122&password=437122&type=m3u
+🇲🇾 http://iptv.tvmalaysia.cc/get.php?username=penang189&password=penang189&type=m3u Active 2021/4/3 10:52:53 0001/1/1 0:00:00 0 3 5 "m3u8","ts","rtmp"
+🇲🇾 http://iptv.tvmalaysia.cc/get.php?username=jalan8&password=jalan8&type=m3u Active 2021/3/3 11:45:06 0001/1/1 0:00:00 0 5 5 "m3u8","ts","rtmp"
+🇲🇾 http://iptv.tvmalaysia.cc/get.php?username=711549&password=711549&type=m3u Active 2021/5/6 0:52:35 2022/6/5 16:00:00 0 0 1 "m3u8","ts","rtmp"
+🇲🇾 http://iptv.tvmalaysia.cc/get.php?username=624850&password=624850&type=m3u Active 2021/6/14 8:43:24 2022/6/14 8:43:00 0 1 1 "m3u8","ts","rtmp"
+🇲🇾 http://iptv.tvmalaysia.cc/get.php?username=422072&password=422072&type=m3u Active 2021/5/18 18:05:46 2022/5/18 15:05:00 0 0 1 "m3u8","ts","rtmp"
+🇲🇾 http://iptv.tvmalaysia.cc/get.php?username=penang174&password=penang174&type=m3u Active 2021/4/1 9:40:22 0001/1/1 0:00:00 0 2 5 "m3u8","ts","rtmp"
+🇲🇾 http://iptv.tvmalaysia.cc/get.php?username=rugby1&password=rugby1&type=m3u Active 2021/6/10 12:42:18 0001/1/1 0:00:00 0 0 1000 "m3u8","ts","rtmp"
+🇲🇾 http://iptv.tvmalaysia.cc/get.php?username=321456&password=321456&type=m3u Active 2021/5/4 14:18:35 2022/5/3 16:00:00 0 0 1 "m3u8","ts","rtmp"
+America
+🇪🇨 http://45.179.140.242:8000/playlist.m3u8
+🇭🇳 http://190.92.63.182:9090/playlist.m3u8
+🇧🇷 http://177.71.71.83:8001/playlist.m3u8
+🇨🇱 http://186.67.37.45:9000/playlist.m3u8
+🇵🇪 http://161.132.108.34:20000/playlist.m3u8
+🇲🇽 http://201.168.205.12:8000/playlist.m3u8
+🇧🇷 http://170.82.16.234:9981/playlist.m3u8
+🇧🇷 http://177.20.208.58:8000/playlist.m3u8
+🇦🇷 http://45.170.40.2:8000/playlist.m3u8
+🇨🇱 http://38.131.11.34:1080/playlist.m3u8
+🇨🇱 http://200.95.184.42:8000/playlist.m3u8
+🇨🇱 http://38.131.11.9:1080/playlist.m3u8
+🇩🇴 http://45.5.8.78:8000/playlist.m3u8
+🇪🇨 http://201.182.242.135:8000/playlist.m3u8
+🇪🇨 http://201.182.242.135:8001/playlist.m3u8
+🇭🇳 http://181.115.72.65:8099/playlist.m3u8
+🇵🇪 http://190.108.83.142:8000/playlist.m3u8
+🇻🇪 http://190.205.118.238:8000/playlist.m3u8
+🇲🇽 http://51.222.43.170:36995/get.php?username=VWjRdtmNC33j&password=nmcaSkXXW4bH&type=m3u
+🇬🇧🇺🇸🇨🇦 Geo-locked http://client-best2019.club/get.php?username=thomas&password=thomas&type=m3u
+🇧🇷 http://svrhost.club/get.php?username=SANW3HG4L&password=E7ETGCZFJ&type=m3u_plus&output=hls
+🇧🇷 http://xcui.vitvabc.xyz:8880/get.php?username=287994000027&password=287994000027&type=m3u Active 2020/4/14 1:21:13 0001/1/1 0:00:00 0 67 50 "m3u8","ts","rtmp"
+🇧🇷 http://xcui.vitvabc.xyz:8880/get.php?username=287994003197&password=287994003197&type=m3u Active 2021/1/20 10:37:08 2023/1/20 10:35:04 0 1 1 "m3u8","ts","rtmp"
+🇧🇷 http://xcui.vitvabc.xyz:8880/get.php?username=287994003244&password=287994003244&type=m3u Active 2021/1/20 10:38:00 2023/1/20 10:35:04 0 0 1 "m3u8","ts","rtmp"
+🇧🇷 http://xcui.vitvabc.xyz:8880/get.php?username=287994003198&password=287994003198&type=m3u Active 2021/1/20 10:37:08 2023/1/20 10:35:04 0 1 1 "m3u8","ts","rtmp"
+🇧🇷 http://xcui.vitvabc.xyz:8880/get.php?username=287994003208&password=287994003208&type=m3u Active 2021/1/20 10:37:42 2023/1/20 10:35:04 0 0 1 "m3u8","ts","rtmp"
+🇧🇷 http://xcui.vitvabc.xyz:8880/get.php?username=287994003705&password=287994003705&type=m3u Active 2021/1/23 8:17:40 2023/1/23 8:13:45 0 0 1 "m3u8","ts","rtmp"
+🇧🇷 http://xcui.vitvabc.xyz:8880/get.php?username=2879940036aa&password=2879940036aa&type=m3u Active 2021/1/23 8:17:13 2023/1/23 8:13:45 0 0 1 "m3u8","ts","rtmp"
+🇧🇷 http://xcui.vitvabc.xyz:8880/get.php?username=2879940036dd&password=2879940036dd&type=m3u Active 2021/1/23 8:17:28 2023/1/23 8:13:45 0 1 1 "m3u8","ts","rtmp"
+🇧🇷 http://xcui.vitvabc.xyz:8880/get.php?username=2879940036be&password=2879940036be&type=m3u Active 2021/1/23 8:17:19 2023/1/23 8:13:45 0 1 1 "m3u8","ts","rtmp"
+🇧🇷 http://xcui.vitvabc.xyz:8880/get.php?username=2879940036eb&password=2879940036eb&type=m3u Active 2021/1/23 8:17:32 2023/1/23 8:13:45 0 1 1 "m3u8","ts","rtmp"
+🇧🇷 http://xcui.vitvabc.xyz:8880/get.php?username=287994003773&password=287994003773&type=m3u Active 2021/1/23 8:18:13 2023/1/23 8:13:45 0 0 1 "m3u8","ts","rtmp"
+🇧🇷 http://xcui.vitvabc.xyz:8880/get.php?username=2879940036fb&password=2879940036fb&type=m3u Active 2021/1/23 8:17:37 2023/1/23 8:13:45 0 1 1 "m3u8","ts","rtmp"
+🇧🇷 http://xcui.vitvabc.xyz:8880/get.php?username=287994003748&password=287994003748&type=m3u Active 2021/1/23 8:18:00 2023/1/23 8:13:45 0 0 1 "m3u8","ts","rtmp"
+🇧🇷 http://xcui.vitvabc.xyz:8880/get.php?username=287994003834&password=287994003834&type=m3u Active 2021/1/23 8:19:55 2023/1/23 8:19:30 0 0 1 "m3u8","ts","rtmp"
+🇧🇷 http://xcui.vitvabc.xyz:8880/get.php?username=287994003892&password=287994003892&type=m3u Active 2021/1/23 8:20:23 2023/1/23 8:19:30 0 0 1 "m3u8","ts","rtmp"
+🇧🇷 http://xcui.vitvabc.xyz:8880/get.php?username=287994003835&password=287994003835&type=m3u Active 2021/1/23 8:19:55 2023/1/23 8:19:30 0 0 1 "m3u8","ts","rtmp"
+🇧🇷 http://xcui.vitvabc.xyz:8880/get.php?username=287994003825&password=287994003825&type=m3u Active 2021/1/23 8:19:51 2023/1/23 8:19:30 0 0 1 "m3u8","ts","rtmp"
+🇧🇷 http://xcui.vitvabc.xyz:8880/get.php?username=287994003833&password=287994003833&type=m3u Active 2021/1/23 8:19:55 2023/1/23 8:19:30 0 0 1 "m3u8","ts","rtmp"
+🇧🇷 http://xcui.vitvabc.xyz:8880/get.php?username=287994003838&password=287994003838&type=m3u Active 2021/1/23 8:19:56 2023/1/23 8:19:30 0 1 1 "m3u8","ts","rtmp"
+🇧🇷 http://xcui.vitvabc.xyz:8880/get.php?username=287994003843&password=287994003843&type=m3u Active 2021/1/23 8:19:59 2023/1/23 8:19:30 0 0 1 "m3u8","ts","rtmp"
+Europe
+🇪🇸 http://37.235.38.139:4000/playlist.m3u8
+🇵🇹 http://94.61.44.29:7500/playlist.m3u8
+🇬🇧 http://185.99.253.46:8000/playlist.m3u8
+🇷🇴 Super TV http://90.84.231.156:8000/playlist.m3u8
+🇪🇸 http://213.162.202.5:4000/playlist.m3u8
+🇵🇹 http://45.92.69.244:9000/playlist.m3u8
+🇧🇪 http://95.182.158.198:9981/playlist.m3u8
+🇪🇸 http://149.100.19.226:8001/playlist.m3u8
+🇩🇪 http://92.246.85.106:8000/playlist.m3u8
+🇩🇪 http://109.122.68.51:4000/playlist.m3u8
+🇩🇪 http://m3u4u.com/m3u/jwmzn111xpt3w5kn7214
+🇩🇪 http://46.4.119.218:8880/playlist.m3u8
+🇪🇸 http://149.62.177.150:8000/playlist.m3u8
+🇬🇧 http://92.246.85.106:8000/playlist.m3u8
+🇮🇪 http://217.115.112.195:8123/playlist.m3u8
+🇳🇱 http://194.76.186.32:8030/playlist.m3u8
+🇵🇹 http://185.236.229.21:9981/playlist.m3u8
+🇵🇹 http://185.42.248.238:8000/playlist.m3u8
+🇵🇱 http://109.197.47.16:8000/playlist.m3u8
+🇫🇷 http://45.150.95.42/get.php?username=307211117776&password=307211117776&type=m3u Active 0001/1/1 0:00:00 2021/11/27 14:43:08 0 0 1 "m3u8","ts"
+🇫🇷 http://45.150.95.42:2083/get.php?username=307241133170&password=307241133170&type=m3u Active 0001/1/1 0:00:00 2021/12/20 15:31:46 0 1 1 "m3u8","ts"
+🇫🇷 http://rv.bleutv.net:2086/get.php?username=307241131047&password=307241131047&type=m3u Active 0001/1/1 0:00:00 2021/12/1 19:09:44 0 0 1 "m3u8","ts"
+🇫🇷 http://45.150.95.42:2083/get.php?username=307241616613&password=307241616613&type=m3u Active 0001/1/1 0:00:00 2021/10/26 13:47:46 0 0 1 "m3u8","ts"
+🇫🇷 http://45.150.95.42/get.php?username=152017251573147&password=152010354589353&type=m3u Active 2021/10/2 18:26:32 2022/10/2 18:26:32 0 0 1 "ts"
+🇫🇷 http://45.150.95.42:2086/get.php?username=307245126515&password=307245126515&type=m3u Active 0001/1/1 0:00:00 2021/10/27 11:29:55 0 0 1 "m3u8","ts"
+🇫🇷 http://45.150.95.42/get.php?username=9517565072&password=4346453244&type=m3u Active 2021/1/15 15:21:26 2022/1/15 15:21:26 0 0 1 "ts"
+🇫🇷🇩🇪🇺🇸 http://51.91.73.99:25461/get.php?username=poland&password=EvFUcE2WMB&type=m3u Active 2020/5/25 6:28:55 2023/7/22 23:00:00 0 11 25 "m3u8","ts","rtmp"
+🇫🇷🇩🇪🇺🇸 http://51.91.73.99:25461/get.php?username=greece&password=grlgsKHGeQ&type=m3u Active 2020/5/25 7:48:06 0001/1/1 0:00:00 0 0 50 "m3u8","ts","rtmp"
+🇫🇷🇩🇪🇺🇸 http://51.91.73.99:25461/get.php?username=spain&password=XDWu1KatRP&type=m3u Active 2020/6/20 15:56:57 0001/1/1 0:00:00 0 3 100 "m3u8","ts","rtmp"
+🇫🇷🇩🇪🇺🇸 http://51.91.73.99:25461/get.php?username=sweden&password=PM66f7Y43H&type=m3u Active 2020/5/25 6:02:00 0001/1/1 0:00:00 0 3 30 "m3u8","ts","rtmp"
+🇫🇷🇩🇪🇺🇸 http://51.91.73.99:25461/get.php?username=usachannel&password=ngZnG8PD5i&type=m3u Active 2020/5/30 8:38:00 0001/1/1 0:00:00 0 28 100 "m3u8","ts","rtmp"
+🇫🇷 http://ip.mooniptv.cz/get.php?username=1520666900&password=1520426840&type=m3u Active 2021/6/26 15:04:51 2022/6/27 15:04:51 0 0 1 "ts"
+🇫🇷 http://ip.mooniptv.cz/get.php?username=4820998308&password=5533029048&type=m3u Active 2021/3/31 16:26:42 2021/11/15 16:26:00 1 0 1 "ts"
+🇫🇷 http://ip.mooniptv.cz/get.php?username=6454064127&password=6314159639&type=m3u Active 2021/1/9 11:00:45 2022/1/9 11:00:45 0 0 1 "ts"
+🇫🇷 http://ip.mooniptv.cz/get.php?username=7040396139&password=5005725727&type=m3u Active 2021/2/21 21:30:01 2022/2/21 21:30:01 0 0 1 "ts"
+🇵🇹🇷🇺 http://megaott.cx/get.php?username=572629911576736&password=084505060027623&type=m3u Active 2020/10/20 2:08:35 2021/10/20 2:08:35 0 0 1 "m3u8","ts","rtmp"
+Scandinavia
+🇨🇭 http://83.78.23.248:8000/playlist.m3u8
+🇨🇭 http://176.10.117.3:5000/playlist.m3u8
+🇮🇸 http://89.160.178.236:8080/playlist.m3u8
+EX-YU
+🇧🇬 http://79.124.14.198:8088/playlist.m3u8
+🇧🇬 http://185.163.244.10:204/playlist.m3u8
+🇧🇬 http://84.54.180.252:8000/playlist.m3u8
+🇧🇦 http://81.93.72.46:8000/playlist.m3u8
+🇧🇬 http://93.152.174.144:4000/playlist.m3u8
+🇧🇬 http://185.222.161.73:8005/playlist.m3u8
+🇧🇬 http://84.201.197.58:9981/playlist.m3u8
+🇧🇬 http://79.124.14.198:8088/playlist.m3u8
+🇧🇬 http://46.10.218.219:8000/playlist.m3u8
+🇧🇬 http://85.187.243.80:8000/playlist.m3u8
+🇬🇷 http://31.177.62.174:8000/playlist.m3u8
+🇬🇷 http://31.177.62.174:8001/playlist.m3u8
+🇬🇷 http://31.177.62.174:8002/playlist.m3u8
+🇬🇷 http://31.177.62.174:8003/playlist.m3u8
+🇬🇷 http://45.182.127.235:8500/playlist.m3u8
+🇷🇸 http://212.200.108.6:8003/playlist.m3u8
+🇦🇱 Global http://pascaltv.site:8080/get.php?username=F12611&password=b199b47b&type=m3u
+🇦🇱 http://185.226.88.3:1036/get.php?username=backup&password=backup&type=m3u
+🇦🇱 http://185.226.88.6:11026/get.php?username=SMYYKzbS0z&password=HRj5TKnrRx&type=m3u
+Russian / Ukraine / CIS / Baltic States
+🇷🇺 http://194.9.27.164:8100/playlist.m3u8
+🇷🇺 http://194.9.27.164:8101/playlist.m3u8
+🇷🇺 http://194.9.27.164:8103/playlist.m3u8
+🇷🇺 http://194.9.27.164:8104/playlist.m3u8
+🇷🇺 http://194.9.27.164:8105/playlist.m3u8
+🇷🇺 http://194.9.27.164:8106/playlist.m3u8
+🇷🇺 http://194.9.27.164:8107/playlist.m3u8
+🇷🇺 http://194.9.27.164:8108/playlist.m3u8
+🇷🇺 http://194.9.27.164:8109/playlist.m3u8
+🇷🇺 http://194.9.27.164:8110/playlist.m3u8
+🇷🇺 http://194.9.27.164:8111/playlist.m3u8
+🇷🇺 http://188.232.102.173:9981/playlist
+🇷🇺 http://80.251.50.18:8004/playlist.m3u8
+🇷🇺 http://109.200.158.222:8000/playlist.m3u8
+🇷🇺 http://195.26.83.96:7024/playlist.m3u8
+🇷🇺 http://91.221.201.2:7100/playlist.m3u8
+🇷🇺 big http://str1.ultra-tv.online:14324/playlist.m3u?token=stalker0909temp
+🇷🇺 http://92.50.221.130:8000/playlist.m3u8
+🇺🇦 http://194.146.190.241:4000/playlist.m3u8
+🇺🇦 http://77.222.140.118:8000/playlist.m3u8
+🇺🇦 http://iptv.osnova.tv:8000/playlist.m3u8
+🇺🇦 http://iptv.rubintele.com:8552/playlist.m3u8
+🇺🇦 http://193.107.128.8:8552/playlist.m3u8
+🇺🇦 http://188.239.55.5:8000/playlist.m3u8
+🇺🇦 http://188.239.55.5:8001/playlist.m3u8
+🇺🇦 http://188.239.55.5:8002/playlist.m3u8
+🇺🇦 http://188.239.55.5:8003/playlist.m3u8
+🇺🇦 http://188.239.55.5:8004/playlist.m3u8
+🇺🇦 http://188.239.55.5:8005/playlist.m3u8
+🇺🇦 http://188.239.55.5:8006/playlist.m3u8
+🇺🇦 http://188.239.55.5:8007/playlist.m3u8
+🇺🇦 http://188.239.55.5:8008/playlist.m3u8
+🇺🇦 http://188.239.55.5:8009/playlist.m3u8
+🇺🇦 http://188.239.55.5:8010/playlist.m3u8
+🇺🇦 http://188.239.55.5:8012/playlist.m3u8
+🇺🇦 http://str1.ultra-tv.online:14324/playlist.m3u8?token=stalker0909temp
+🇧🇾 http://37.17.12.119:8904/playlist.m3u8
+🇧🇾 http://37.17.12.119:8905/playlist.m3u8
+🇧🇾 http://37.17.12.119:8906/playlist.m3u8
+🇧🇾 http://37.17.12.119:8907/playlist.m3u8
+🇧🇾 http://37.17.12.119:8910/playlist.m3u8
+🇧🇾 http://37.17.12.119:8911/playlist.m3u8
+🇧🇾 http://37.17.12.119:8912/playlist.m3u8
+🇪🇪 http://195.222.7.26:7001/playlist.m3u8
+🇰🇿 http://91.185.3.218:4000/playlist.m3u8
+🇰🇿 http://89.218.32.187:18000/playlist.m3u8
+🇰🇿 http://195.245.97.133:8800/playlist.m3u8
+🇱🇹 http://78.58.18.248:5000/playlist.m3u8
+Unknown
+http://mytv.fun:8080/get.php?username=Bar322&password=mqc3hjh0p&type=m3u
+http://fluxhd.awslink.xyz/get.php?username=simone.pesce93@gmail.com&password=atffah7xdczcdmrk3lnq&type=m3u Active 2019/9/27 13:30:05 2021/12/20 19:03:54 0 0 1 "m3u8","ts"
+http://iptvstream.xyz:8080/get.php?username=Mcnsi&password=7210db0d&type=m3u Active 2021/1/29 2:11:03 2022/1/29 2:11:03 0 1 2 "m3u8","ts","rtmp"
+http://solutionplay.xyz:8080/get.php?username=techruthes&password=10987658&type=m3u Active 2021/9/22 1:47:53 0001/1/1 0:00:00 0 67 150 "m3u8","ts","rtmp"
+http://suplus.xyz:8080/get.php?username=Cuentafamilia&password=9KHZ5pUtt4&type=m3u Active 2021/10/1 2:45:36 2021/11/1 3:45:36 0 13 3 "m3u8","ts","rtmp"
+http://46.32.222.175:25461/get.php?username=jhgjhmnb&password=jykcZo6yjz&type=m3u Active 2021/3/9 9:37:55 0001/1/1 0:00:00 0 358 1000 "m3u8","ts","rtmp"
+http://gigaplayxtream.com:80/get.php?username=Katy&password=Katy&type=m3u Active 2021/9/5 2:31:19 2022/9/5 2:31:19 0 3 3 "m3u8","ts","rtmp"
+http://gratuita.mrzutv.net:8080/get.php?username=advcasdvasdvadvadvaadvcasdvasdvadvadvaadvcasdvasdvadvadva&password=advcasdvasdvadvadvaadvcasdvasdvadvadvaadvcasdvasdvadvadvaadvcasdvasdvadvadvaadvcasdvasdvadvadvaadvcasdvasdvadvadva&type=m3u Active 2021/10/21 5:45:22 0001/1/1 0:00:00 0 77 500 "m3u8","ts","rtmp"
+http://85.203.33.88/get.php?username=huMy2t53dn564&password=paM7yhB6Hh564&type=m3u Active 2021/2/7 15:19:04 2022/2/8 15:19:03 0 0 1 "m3u8","ts"
+http://4k.bluesea.pw:8080/get.php?username=utkubey99&password=0212x2020&type=m3u Active 2020/12/3 12:29:57 2021/12/3 12:29:57 0 0 1 "m3u8","ts","rtmp"
+http://api.iptveditor.com/get.php?username=AmirSalem66&password=Group666&type=m3u Active 2021/10/21 9:48:04 2022/3/11 0:00:00 0 0 100 "m3u8","ts"
+http://appfactory.group:8080/get.php?username=D3B1YGOyCw&password=VByCqdNt7F&type=m3u Active 2020/12/26 0:28:55 2022/12/26 0:28:55 0 0 1 "m3u8","ts","rtmp"
+http://appfactory.group:8080/get.php?username=KjdTXezzID&password=0oul3m07RQ&type=m3u Active 2020/12/26 0:28:55 2022/12/26 0:28:55 0 0 1 "m3u8","ts","rtmp"
+http://mag.ultimateott.live:8080/get.php?username=190ph3q4q863kvk5&password=190ph3q4q863kvk5&type=m3u Active 2021/2/6 16:44:52 2022/2/6 16:47:27 0 2 1 "m3u8","ts","rtmp"
+http://nplay.is:2095/get.php?username=eZDTc77RCK&password=UMKv9fHA89&type=m3u Active 2021/9/7 18:35:39 2022/1/30 14:10:55 0 1 1 "m3u8","ts","rtmp"
+http://oqab.life:8080/get.php?username=6000&password=6000&type=m3u Active 2021/9/9 17:05:09 2021/11/16 8:31:42 0 1 1 "m3u8","ts","rtmp"
+http://rm.flysat.live/get.php?username=307211117441&password=307211117441&type=m3u Active 2021/7/10 18:19:21 2022/7/10 18:19:21 0 0 1 "m3u8","ts"
+http://s.pdsrv.io/get.php?username=Claytonsilva&password=21980416357&type=m3u Active 2021/8/23 16:55:20 2021/10/23 23:33:28 0 0 1 "m3u8","ts"
+http://secretv.io:8080/get.php?username=Fabioeau2&password=W9aTIYBCPW&type=m3u Active 2021/2/5 12:10:28 2022/2/5 12:10:28 0 1 1 "m3u8","ts"
+http://tv.zaintv.net/get.php?username=ijz822&password=vhk255&type=m3u Active 2021/6/13 21:26:52 2022/7/15 21:05:47 0 0 1 "ts"
+http://ultimateiptv.me:8080/get.php?username=Sofiane&password=Sofiane1234&type=m3u Active 2019/11/13 18:16:01 2021/12/2 16:54:57 0 3 1 "m3u8","ts","rtmp"
+http://vipeiptv.com:25461/get.php?username=graca53&password=graca53&type=m3u Active 2020/5/30 2:56:14 2021/11/2 1:35:53 0 0 1 "m3u8","ts"
+http://xc.coindz.cc/get.php?username=14817383360706&password=1593574628&type=m3u Active 2021/2/14 4:29:16 2022/2/14 4:29:16 0 1 1 "m3u8","ts","rtmp"
+http://xtream-ui04.feel-tv.com:25461/get.php?username=jhgjhmnb&password=jykcZo6yjz&type=m3u Active 2021/3/9 9:37:55 0001/1/1 0:00:00 0 31 1000 "m3u8","ts","rtmp"
+http://77as77.com/get.php?username=dOIcvfWCXw&password=8MXunrvjfd&type=m3u Active 2021/1/15 17:39:15 2022/1/15 17:39:15 0 0 1 "ts"
+http://dnsplay.xyz/get.php?username=lerzvdnm&password=n769ZvKnx3&type=m3u Active 2021/5/25 4:00:00 0001/1/1 0:00:00 0 1 3 "m3u8","ts","rtmp"
+http://line.ptvplus.live/get.php?username=bertocchini&password=AYMI1JUJMG&type=m3u Active 2021/9/23 17:41:03 2022/3/23 17:41:03 0 1 1 "ts"
+http://painel.tvdigitalsbl.net/get.php?username=vo&password=vo&type=m3u Active 2018/12/25 14:20:13 0001/1/1 0:00:00 0 2 1 "m3u8","ts"
+http://live.iptvtotaal.com:8000/get.php?username=6234122498&password=8329556324&type=m3u Active 2021/5/9 22:00:00 2021/11/9 23:00:00 0 1 1 "ts","rtmp"
+http://103.214.100.50:25461/get.php?username=nazar&password=nazar&type=m3u Active 2021/8/8 18:19:49 0001/1/1 0:00:00 0 0 1 "m3u8","ts","rtmp"
+http://144.76.86.51:57060/get.php?username=stalker&password=zacj5NaQuQ7P3oPI&type=m3u Active 2019/11/13 23:04:04 0001/1/1 0:00:00 0 87 999 "m3u8","ts","rtmp"
+http://163.172.103.202:8880/get.php?username=287994003825&password=287994003825&type=m3u Active 2021/1/23 8:19:51 2023/1/23 8:19:30 0 0 1 "m3u8","ts","rtmp"
+http://51.159.17.55/get.php?username=CmyFs8Umki&password=Xi0VCV3jPv&type=m3u Active 2017/8/17 21:43:41 2022/8/17 21:43:00 0 1 1 "ts"
+http://62.210.152.92:25461/get.php?username=Sport1&password=sdf15sd&type=m3u Active 2020/12/4 13:12:06 0001/1/1 0:00:00 0 0 10000 "m3u8","ts"
+http://85.203.33.91/get.php?username=307241133170&password=307241133170&type=m3u Active 0001/1/1 0:00:00 2021/12/20 15:31:46 0 1 1 "m3u8","ts"
+http://85.203.33.91/get.php?username=307261112201&password=307261112201&type=m3u Active 0001/1/1 0:00:00 2022/8/15 11:09:00 0 0 1 "m3u8","ts"
+http://85.203.33.91/get.php?username=307210144741&password=307210144741&type=m3u Active 0001/1/1 0:00:00 2021/10/24 11:47:31 0 1 1 "m3u8","ts"
+http://85.203.33.91:2083/get.php?username=152089731138755&password=152058813782600&type=m3u Active 2021/8/17 16:21:10 2022/8/17 16:21:10 0 0 1 "ts"
+http://85.203.33.91:2086/get.php?username=152069465908341&password=152005105977814&type=m3u Active 2021/7/6 13:21:12 2022/7/6 13:21:12 0 1 1 "ts"
+http://amr4k.us:8080/get.php?username=656&password=656&type=m3u Active 2020/8/19 4:16:57 0001/1/1 0:00:00 0 0 1 "m3u8","ts","rtmp"
+http://appcliente.com:8880/get.php?username=mariana&password=123&type=m3u Active 2020/2/24 21:29:00 2022/6/3 2:00:00 0 0 1
+http://appcliente.com:8880/get.php?username=mister&password=123&type=m3u Active 2020/2/24 21:28:59 2022/4/29 3:00:00 0 0 1
+http://cdn.4br.xyz/get.php?username=marcelorev&password=marcelo9384&type=m3u Active 2020/8/26 3:33:40 2021/11/6 1:17:56 0 0 1 "m3u8","ts"
+http://cdn.ayproviders.xyz/get.php?username=RELk7tQ2Dk&password=25RzJ9rsY8&type=m3u Active 2021/4/28 3:14:39 2022/4/28 3:14:39 0 1 1 "m3u8","ts"
+http://compitv.info:8080/get.php?username=MauricioCavieres231&password=JTFCEgyLOa&type=m3u Active 2021/2/13 19:38:19 2021/11/16 20:30:52 0 2 3 "m3u8","ts","rtmp"
+http://diaspromedia.tv/get.php?username=alexandros&password=3xCAbwgqVn&type=m3u Active 2020/3/10 5:17:08 0001/1/1 0:00:00 0 103 200 "m3u8","ts","rtmp"
+http://e1.ciko.ch/get.php?username=OeHJIT6C4M&password=otxCH4Wyqe&type=m3u Active 2018/5/18 15:41:34 2022/6/23 16:41:00 0 1 1 "ts"
+http://ebest.live/get.php?username=twrzGBMP82&password=7AgZtjrV7x&type=m3u Active 2021/9/23 16:21:15 2021/12/23 17:21:15 0 2 1 "m3u8","ts"
+http://foctv.xyz:25510/get.php?username=@alaqib&password=C9vOtBPfQ2&type=m3u Active 2021/5/8 4:21:18 2021/12/8 16:00:00 0 1 1 "m3u8","ts","rtmp"
+http://fpro.webvps.de:25443/get.php?username=NDAT906CFr&password=09pquDcE8M&type=m3u Active 2019/12/4 14:58:19 2021/12/15 16:01:07 0 0 1 "m3u8","ts"
+http://freeiptvgen.com:25461/get.php?username=9132&password=freeiptvgen&type=m3u Active 0001/1/1 0:00:00 2022/9/19 15:20:59 0 0 1 "m3u8","ts","rtmp"
+http://i1.mikro.work:12345/get.php?username=radio&password=radio&type=m3u Active 0001/1/1 0:00:00 2021/10/24 11:47:31 1 0 99 "ts"
+http://in.lionboxiptv.nl/get.php?username=yEXSMKWh6C1&password=SffXFmpos712&type=m3u Active 2020/12/4 22:46:12 2021/10/25 15:53:00 0 0 1 "ts"
+http://line.ptvplus.live/get.php?username=bertocchini&password=AYMI1JUJMG&type=m3u Active 2021/9/23 17:41:03 2022/3/23 17:41:03 0 1 1 "ts"
+http://links.nextiptv.pro/get.php?username=VB0bSiyPNk&password=YyqZaoB3Ab&type=m3u Active 2020/7/5 14:22:08 2022/7/6 16:51:28 0 0 1 "m3u8","ts","rtmp"
+http://links.nextiptv.pro/get.php?username=vtYTwLNkvD&password=JxnftmzO8P&type=m3u Active 2018/4/20 16:57:48 2022/5/13 15:26:33 0 0 1 "m3u8","ts","rtmp"
+http://m3u.rapid-ott.com:8080/get.php?username=3143263594476672&password=2598854265&type=m3u Active 2020/12/13 14:52:40 2021/12/13 14:55:01 0 2 3 "m3u8","ts","rtmp"
+http://m3ulink.com:8080/get.php?username=info4-restream&password=Patrik1016987987&type=m3u Active 2019/2/14 8:50:06 2021/11/2 19:45:06 0 64 60 "m3u8","ts","rtmp"
+http://matrix.megdns.com:7000/get.php?username=tvpt14&password=62sfk0vwNI&type=m3u Active 2019/10/14 19:47:20 2021/11/16 21:22:26 0 1 1 "m3u8","ts","mpegts"
+http://mediaptv1.zuneserver.com:8000/get.php?username=localchannels&password=xhga53ls83j&type=m3u Active 2015/7/19 17:18:33 0001/1/1 0:00:00 0 2 0 "ts"
+http://misket.tv:2020/get.php?username=anka-icin-test&password=fhoPny6SRC&type=m3u Active 2020/1/20 20:56:21 0001/1/1 0:00:00 0 0 200 "m3u8","ts","rtmp"
+http://myserveriptv.com:2082/get.php?username=DiaaNahar1&password=ARNWaJAD39&type=m3u Active 2020/12/4 17:32:13 2021/12/5 5:32:13 0 1 1 "m3u8","ts","rtmp"
+http://on7.media:8080/get.php?username=aydar&password=b7p6rzZhEU&type=m3u Active 2020/12/8 22:58:09 0001/1/1 0:00:00 0 214 400 "m3u8","ts","rtmp"
+http://opro.webvps.de:25443/get.php?username=MAG1NXsYIgSbO&password=SNhyV48nuX&type=m3u Active 2021/2/22 21:19:47 2022/3/1 21:19:47 0 0 1 "m3u8","ts"
+http://opro.webvps.de:25443/get.php?username=MAGlLfxbhS9Ln&password=lcX0NLubCl&type=m3u Active 2020/11/4 19:19:29 2021/11/13 19:19:29 0 0 1 "m3u8","ts"
+http://oqab.life:8080/get.php?username=123321&password=321123&type=m3u Active 2021/6/29 14:50:37 2021/11/4 18:54:19 0 2 1 "m3u8","ts","rtmp"
+http://painel.tvdigitalsbl.net/get.php?username=CASSIANO1&password=CASSIANO1&type=m3u Active 2018/8/4 23:59:14 0001/1/1 0:00:00 0 1 1 "m3u8","ts","rtmp"
+http://painel.tvdigitalsbl.net/get.php?username=vo&password=vo&type=m3u Active 2018/12/25 14:20:13 0001/1/1 0:00:00 0 1 1 "m3u8","ts"
+http://pie.buzz:83/get.php?username=Peter.nyr1909&password=6547736256&type=m3u Active 2018/3/29 12:09:38 2021/10/28 4:00:00 0 52 100 "m3u8","ts","rtmp"
+http://player.ukwtv.com:8080/get.php?username=3173434353113478&password=2598854265&type=m3u Active 2021/4/28 16:44:18 2022/4/28 16:44:20 0 23 3 "m3u8","ts","rtmp"
+http://portal.supertela.cloudns.cl/get.php?username=mendes&password=mendes&type=m3u Active 2021/9/14 17:44:22 2021/11/14 22:12:05 0 1 1 "m3u8","ts"
+http://pyramidsiptv.com:8000/get.php?username=mohamed&password=mohamed123&type=m3u Active 2021/7/10 18:19:21 2022/7/10 18:19:21 0 1 1 "m3u8","ts"
+http://rusmedia.ayservices.xyz/get.php?username=Q5MePA2emj&password=YH3Y23d3D3&type=m3u Active 2021/8/20 10:10:30 2022/8/20 10:10:30 0 1 1 "m3u8","ts"
+http://s1.urhdiptv.net:8080/get.php?username=mma2&password=45212156&type=m3u Active 2019/11/10 19:22:12 2022/11/10 19:22:12 0 1 1 "m3u8","ts"
+http://s2.iptv66.tv/get.php?username=D97915Q27254E&password=D97915Q27254E&type=m3u Active 2021/2/8 13:43:03 2022/2/9 12:02:00 0 0 1 "m3u8","ts"
+http://satlok.xyz:8000/get.php?username=tiryaki&password=srdr3004&type=m3u Active 2019/11/8 11:48:40 2022/5/3 11:48:00 0 1 1 "m3u8","ts","rtmp"
+http://satlok.xyz:8000/get.php?username=yoruk&password=turku1453&type=m3u Active 2021/3/5 17:01:40 2022/3/5 17:01:40 0 2 1 "m3u8","ts","rtmp"
+http://satlok.xyz:8000/get.php?username=ysfing19&password=uJDkXz6fhk&type=m3u Active 2019/7/19 13:32:22 2022/7/21 14:08:16 0 3 1 "m3u8","ts","rtmp"
+http://serivcestv.xyz/get.php?username=3143631718254908&password=2598854265&type=m3u Active 2020/12/11 8:11:50 2021/12/11 8:14:10 0 8 3 "m3u8","ts","rtmp"
+http://server.iptvxxx.net/get.php?username=WrRVUobNT2&password=gUZ4soJGFQ&type=m3u Active 2021/9/11 12:22:19 0001/1/1 0:00:00 0 0 9999 "m3u8","ts","rtmp"
+http://showflix.org:5890/get.php?username=mickaeloristi2021&password=123456&type=m3u Active 2021/5/27 20:49:15 2022/5/27 20:49:15 0 1 1 "m3u8","ts","rtmp"
+http://skyhd-iptv.com:2095/get.php?username=stalkerexyo&password=WyeKsAI0Rc&type=m3u Active 2020/5/3 20:10:14 0001/1/1 0:00:00 0 4 1000 "m3u8","ts","rtmp"
+http://spidertv.xyz:2052/get.php?username=713289&password=FPSTCN&type=m3u Active 2021/4/22 20:38:15 2022/4/22 20:38:15 0 1 1 "m3u8","ts"
+http://stream.sparkytv.co.uk:25461/get.php?username=Anthony&password=Anthony123&type=m3u Active 2021/8/27 1:05:03 2022/2/27 2:05:03 0 0 1 "m3u8","ts","rtmp"
+http://stream.vodhub.xyz:8080/get.php?username=Marky&password=Marky&type=m3u Active 2021/1/7 18:38:55 0001/1/1 0:00:00 0 8 100 "m3u8","ts","rtmp"
+http://subtv.premuimservers.com/get.php?username=190ph3q4q863kvk5&password=190ph3q4q863kvk5&type=m3u Active 2021/2/6 16:44:52 2022/2/6 16:47:27 0 4 1 "m3u8","ts","rtmp"
+http://thespeedmedia.watch:2086/get.php?username=2314&password=2314&type=m3u Active 2021/10/1 20:02:32 2021/11/2 8:02:32 0 1 1 "m3u8","ts","rtmp"
+http://thespeedmedia.watch:2086/get.php?username=5556&password=5556&type=m3u Active 2021/10/16 17:43:08 2021/11/16 18:43:08 0 0 1 "m3u8","ts","rtmp"
+http://tvdns.tech/get.php?username=andreza2021&password=2021andreza&type=m3u Active 2021/3/2 22:24:36 2022/3/2 22:24:36 0 1 2 "m3u8","ts"
+http://videoteka1.dvrcam.info:25461/get.php?username=mmaxvod1&password=mmaxvvod2&type=m3u Active 2020/5/14 8:02:02 0001/1/1 0:00:00 0 97 300 "m3u8","ts","rtmp"
+http://vip.groupiptv.com:7000/get.php?username=XJXXMQPQm7&password=LaJEo1IYwx&type=m3u Active 2017/4/1 15:17:40 0001/1/1 0:00:00 0 0 1 "m3u8","ts","rtmp"
+http://vip.groupiptv.com:7000/get.php?username=darren&password=darren&type=m3u Active 2017/6/9 13:23:36 0001/1/1 0:00:00 0 0 1 "m3u8","ts","rtmp"
+http://vip.groupiptv.com:7000/get.php?username=miguel&password=miguel&type=m3u Active 2016/11/6 14:25:54 0001/1/1 0:00:00 0 0 1 "m3u8","ts","rtmp"
+http://vip.groupiptv.com:7000/get.php?username=pamel&password=pamel&type=m3u Active 2017/11/16 20:12:42 0001/1/1 0:00:00 0 0 1 "m3u8","ts","rtmp"
+http://vip.groupiptv.com:7000/get.php?username=shoot&password=shoot&type=m3u Active 2017/11/1 14:54:38 0001/1/1 0:00:00 0 0 1 "m3u8","ts","rtmp"
+http://vip.groupiptv.com:7000/get.php?username=singh&password=singh&type=m3u Active 2018/2/26 14:09:00 0001/1/1 0:00:00 0 0 1 "m3u8","ts","rtmp"
+http://vipeiptv.com:25461/get.php?username=POLIANA21&password=POLIANA21&type=m3u Active 2021/7/15 19:46:48 2021/10/21 16:04:25 0 0 1 "m3u8","ts"
+http://vpro.viptvclub.com:25443/get.php?username=VvyoaUsXcva&password=weoWVTmFTQ&type=m3u Active 2020/7/25 12:43:03 2022/7/26 21:00:00 0 0 1 "m3u8","ts"
+http://xc.coindz.cc:80/get.php?username=14817383360706&password=1593574628&type=m3u Active 2021/2/14 4:29:16 2022/2/14 4:29:16 0 1 1 "m3u8","ts","rtmp"
+http://xtream.ddn1.tn/get.php?username=387155722327813&password=387155722327813&type=m3u Active 2016/6/19 18:36:59 0001/1/1 0:00:00 0 0 1 "ts"
+https://agptv.dominiocreativo.com:2083/get.php?username=agapetv8&password=0TCtPk7Yq7&type=m3u Active 2021/9/22 8:22:21 0001/1/1 0:00:00 0 2 500 "m3u8","ts","rtmp"

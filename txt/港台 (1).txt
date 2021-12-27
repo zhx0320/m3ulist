@@ -1,0 +1,50 @@
+﻿ #EXTINF:-1 ,卫视电影
+http://sytv.xtvants.fun/mytv.php?id=wsdy&token=free&user=free
+#EXTINF:-1 ,台視綜合台
+http://sytv.xtvants.fun/mytv.php?id=tszh&token=free&user=free
+#EXTINF:-1 ,華視教育體育文化台
+http://sytv.xtvants.fun/mytv.php?id=hsjy&token=free&user=free
+#EXTINF:-1 ,公視台語台
+http://sytv.xtvants.fun/mytv.php?id=gs2&token=free&user=free
+#EXTINF:-1 ,三立財經台
+http://sytv.xtvants.fun/mytv.php?id=slcj&token=free&user=free
+#EXTINF:-1 ,MTV綜合台
+http://sytv.xtvants.fun/mytv.php?id=mtv&token=free&user=free
+#EXTINF:-1 ,MUCH TV
+http://sytv.xtvants.fun/mytv.php?id=much&token=free&user=free
+#EXTINF:-1 ,JET綜合台
+http://sytv.xtvants.fun/mytv.php?id=jet&token=free&user=free
+#EXTINF:-1 ,東風衛視
+http://sytv.xtvants.fun/mytv.php?id=dfws&token=free&user=free
+#EXTINF:-1 ,高點綜合台
+http://sytv.xtvants.fun/mytv.php?id=gdzh&token=free&user=free
+#EXTINF:-1 ,高點育樂台
+http://sytv.xtvants.fun/mytv.php?id=gdyl&token=free&user=free
+#EXTINF:-1 ,TCL
+http://50.7.61.147:30080/Entry/tlc
+#EXTINF:-1 ,澳门莲花
+http://nettvpro.live/hls/lotustv.php
+#EXTINF:-1 ,HBO中文
+http://218.202.220.2:5000/nn_live.m3u8?id=HBO
+#EXTINF:-1 ,亚洲新闻
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 ,凤凰中文
+http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv2.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
+#EXTINF:-1 ,凤凰中文
+http://zb.ios.ifeng.com:80/live/05QGDA0CIRK/index.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://zb.ios.ifeng.com:80/live/05QGCOB3T34/index.m3u8
+#EXTINF:-1 ,香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 ,红星电视
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+#EXTINF:-1 ,澳亚卫视
+http://live.mastvnet.com:800/4rlff1m/live.m3u8
+#EXTINF:-1 ,澳亚卫视
+http://live.mastvnet.com:800/4rlff1m/a/live.m3u8
+#EXTINF:-1 ,澳亚卫视
+http://live.mastvnet.com:800/4rlff1m/1024/live.m3u8
+#EXTINF:-1 ,亚美卫视
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8

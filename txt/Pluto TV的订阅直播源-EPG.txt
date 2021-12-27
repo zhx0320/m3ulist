@@ -1,0 +1,1 @@
+今天分享出来我找到的国外网友提取美国Pluto TV的订阅直播源https://pastebin.com/raw/9u6U1XJS，对应的EPG是 https://i.mjh.nz/PlutoTV/us.xml.gz 这套源没有IP的限制，国内也可以正常打开分了新闻，电影，电视剧，儿童，音乐，体育等等几个大类，有需要的朋友可以拿去！
