@@ -1,0 +1,887 @@
+#EXTM3U
+#EXTINF:-1,CCTV2
+http://39.134.116.30:8080/PLTV/88888910/224/3221225643/index.m3u8
+#EXTINF:-1,CCTV3
+http://39.135.138.59:18890/PLTV/88888910/224/3221225634/index.m3u8
+#EXTINF:-1,CCTV4
+http://39.134.116.30:8080/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1,CCTV5
+http://39.134.116.30:8080/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1,CCTV6
+http://39.135.138.59:18890/PLTV/88888910/224/3221225632/index.m3u8
+#EXTINF:-1,CCTV8
+http://39.135.138.60:18890/PLTV/88888910/224/3221225635/index.m3u8
+#EXTINF:-1,CCTV10
+http://39.135.138.60:18890/PLTV/88888910/224/3221225636/index.m3u8
+#EXTINF:-1,CCTV11
+http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+#EXTINF:-1,CCTV12
+http://39.135.138.60:18890/PLTV/88888910/224/3221225637/index.m3u8
+#EXTINF:-1,CCTV15
+http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
+#EXTINF:-1,湖南卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
+#EXTINF:-1,湖南卫视
+http://39.135.138.50:18890/PLTV/88888910/224/3221225704/index.m3u8
+#EXTINF:-1,浙江卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8
+#EXTINF:-1,浙江卫视
+http://39.135.138.50:18890/PLTV/88888910/224/3221225703/index.m3u8
+#EXTINF:-1,江苏卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8
+#EXTINF:-1,江苏卫视
+http://39.135.138.50:18890/PLTV/88888910/224/3221225702/index.m3u8
+#EXTINF:-1,东方卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
+#EXTINF:-1,东方卫视
+http://39.135.138.50:18890/PLTV/88888910/224/3221225659/index.m3u8
+#EXTINF:-1,东方卫视
+http://117.148.179.160/PLTV/88888888/224/3221231738/index.m3u8
+#EXTINF:-1,山东卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8
+#EXTINF:-1,山东卫视
+http://39.135.138.50:18890/PLTV/88888910/224/3221225697/index.m3u8
+#EXTINF:-1,北京卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
+#EXTINF:-1,北京卫视
+http://39.135.138.50:18890/PLTV/88888910/224/3221225674/index.m3u8
+#EXTINF:-1,北京卫视
+http://117.148.179.168/PLTV/88888888/224/3221231732/index.m3u8
+#EXTINF:-1,辽宁卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
+#EXTINF:-1,辽宁卫视
+http://39.135.138.50:18890/PLTV/88888910/224/3221225696/index.m3u8
+#EXTINF:-1,辽宁卫视
+http://117.148.179.152/PLTV/88888888/224/3221231802/index.m3u8
+#EXTINF:-1,黑龙江卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225736/index.m3u8
+#EXTINF:-1,黑龙江卫视
+http://39.135.138.50:18890/PLTV/88888910/224/3221225690/index.m3u8
+#EXTINF:-1,黑龙江卫视
+http://117.148.179.141/PLTV/88888888/224/3221231967/index.m3u8
+#EXTINF:-1,广东卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225742/index.m3u8
+#EXTINF:-1,广东卫视
+http://39.135.138.50:18890/PLTV/88888910/224/3221225701/index.m3u8
+#EXTINF:-1,广东卫视
+http://117.148.179.141/PLTV/88888888/224/3221231891/index.m3u8
+#EXTINF:-1,安徽卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8
+#EXTINF:-1,安徽卫视
+http://39.135.138.50:18890/PLTV/88888910/224/3221225691/index.m3u8
+#EXTINF:-1,安徽卫视
+http://117.148.179.177/PLTV/88888888/224/3221230215/index.m3u8
+#EXTINF:-1,深圳卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
+#EXTINF:-1,深圳卫视
+http://39.135.138.50:18890/PLTV/88888910/224/3221225700/index.m3u8
+#EXTINF:-1,天津卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225739/index.m3u8
+#EXTINF:-1,天津卫视
+http://39.135.138.50:18890/PLTV/88888910/224/3221225698/index.m3u8
+#EXTINF:-1,重庆卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
+#EXTINF:-1,重庆卫视
+http://39.135.138.50:18890/PLTV/88888910/224/3221225692/index.m3u8
+#EXTINF:-1,东南卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
+#EXTINF:-1,东南卫视
+http://39.135.138.50:18890/PLTV/88888910/224/3221225657/index.m3u8
+#EXTINF:-1,广西卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
+#EXTINF:-1,广西卫视
+http://39.135.138.50:18890/PLTV/88888910/224/3221225731/index.m3u8
+#EXTINF:-1,河北卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
+#EXTINF:-1,河北卫视
+http://39.135.138.50:18890/PLTV/88888910/224/3221225732/index.m3u8
+#EXTINF:-1,河北卫视
+http://117.148.179.179/PLTV/88888888/224/3221231411/index.m3u8
+#EXTINF:-1,江西卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8
+#EXTINF:-1,江西卫视
+http://39.135.138.50:18890/PLTV/88888910/224/3221225705/index.m3u8
+#EXTINF:-1,吉林卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225680/index.m3u8
+#EXTINF:-1,吉林卫视
+http://39.135.138.50:18890/PLTV/88888910/224/3221225680/index.m3u8
+#EXTINF:-1,山西卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
+#EXTINF:-1,山西卫视
+http://39.135.138.50:18890/PLTV/88888910/224/3221225730/index.m3u8
+#EXTINF:-1,陕西卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
+#EXTINF:-1,陕西卫视
+http://39.135.138.50:18890/PLTV/88888910/224/3221225729/index.m3u8
+#EXTINF:-1,甘肃卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225724/index.m3u8
+#EXTINF:-1,甘肃卫视
+http://39.135.138.50:18890/PLTV/88888910/224/3221225724/index.m3u8
+#EXTINF:-1,云南卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225664/index.m3u8
+#EXTINF:-1,云南卫视
+http://39.135.138.50:18890/PLTV/88888910/224/3221225664/index.m3u8
+#EXTINF:-1,云南卫视
+https://hwzbout.yunshicloud.com/8xughf/e0bx15.m3u8
+#EXTINF:-1,贵州卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
+#EXTINF:-1,贵州卫视
+http://39.135.138.50:18890/PLTV/88888910/224/3221225728/index.m3u8
+#EXTINF:-1,海南卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8
+#EXTINF:-1,宁夏卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
+#EXTINF:-1,宁夏卫视
+http://39.135.138.50:18890/PLTV/88888910/224/3221225726/index.m3u8
+#EXTINF:-1,青海卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
+#EXTINF:-1,青海卫视
+http://39.135.138.50:18890/PLTV/88888910/224/3221225727/index.m3u8
+#EXTINF:-1,内蒙古卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8
+#EXTINF:-1,内蒙古卫视
+http://39.135.138.50:18890/PLTV/88888910/224/3221225667/index.m3u8
+#EXTINF:-1,西藏卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
+#EXTINF:-1,西藏卫视
+http://39.135.138.50:18890/PLTV/88888910/224/3221225723/index.m3u8
+#EXTINF:-1,新疆卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
+#EXTINF:-1,新疆卫视
+http://39.135.138.50:18890/PLTV/88888910/224/3221225725/index.m3u8
+#EXTINF:-1,旅游卫视
+http://39.135.138.50:18890/PLTV/88888910/224/3221225722/index.m3u8
+#EXTINF:-1,四川卫视
+http://39.135.138.50:18890/PLTV/88888910/224/3221225733/index.m3u8
+#EXTINF:-1,四川卫视
+http://117.148.179.142/PLTV/88888888/224/3221231885/index.m3u8
+#EXTINF:-1,上海纪实
+http://39.135.138.50:18890/PLTV/88888910/224/3221225655/index.m3u8
+#EXTINF:-1,北京纪实
+http://39.135.138.50:18890/PLTV/88888910/224/3221225676/index.m3u8
+#EXTINF:-1,湖北卫视
+http://39.135.138.50:18890/PLTV/88888910/224/3221225699/index.m3u8
+#EXTINF:-1,湖北卫视
+http://117.148.179.142/PLTV/88888888/224/3221231888/index.m3u8
+#EXTINF:-1,4K
+http://39.135.138.50:18890/PLTV/88888910/224/3221225786/index.m3u8
+#EXTINF:-1,北京 Ⅰ 北京点掌财经
+http://cclive.aniu.tv/live/anzb.m3u8
+#EXTINF:-1,天津 Ⅰ 滨海新闻
+http://60.30.52.41:80/live/bhtv1/playlist.m3u8
+#EXTINF:-1,天津 Ⅰ 滨海综艺
+http://60.30.52.41:80/live/bhtv2/playlist.m3u8
+#EXTINF:-1,天津 Ⅰ 滨海影视
+http://60.30.52.41:80/live/bhtv3/playlist.m3u8
+#EXTINF:-1,上海 Ⅰ 上海新闻综合
+http://140.207.241.3:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
+#EXTINF:-1,上海 Ⅰ 上海新闻综合
+http://183.207.255.190/live/program/live/xwzhhd/2300000/mnf.m3u8
+#EXTINF:-1,上海 Ⅰ 上海都市
+http://140.207.241.3:8080/live/program/live/ylpdhd/4000000/mnf.m3u8
+#EXTINF:-1,上海 Ⅰ 上海外语
+http://140.207.241.3:8080/live/program/live/wypdhd/4000000/mnf.m3u8
+#EXTINF:-1,上海 Ⅰ 上海外语
+http://183.207.255.190/live/program/live/wypdhd/2300000/mnf.m3u8
+#EXTINF:-1,上海 Ⅰ 上海东方影视
+http://140.207.241.2:8080/live/program/live/dsjpdhd/2300000/mnf.m3u8
+#EXTINF:-1,上海 Ⅰ 上海哈哈炫动
+http://183.207.255.190/live/program/live/hhxdhd/4000000/mnf.m3u8
+#EXTINF:-1,上海 Ⅰ 上海点掌财经
+http://cclive2.aniu.tv/live/anzb.m3u8
+#EXTINF:-1,广东 Ⅰ 广东文化台
+https://glive.grtn.cn/live/wenhua_test0203.m3u8
+#EXTINF:-1,广东 Ⅰ 深圳财经生活
+http://ye23.win/iptv/sztv.php?id=5
+#EXTINF:-1,广东 Ⅰ 生活
+http://hls-ott-zhibo.wasu.tv/live/452/index.m3u8
+#EXTINF:-1,广东 Ⅰ 潮安综合
+http://chaoan.chaoantv.com:8278/live/chaoanzongyi.m3u8
+#EXTINF:-1,浙江 Ⅰ 浙江民生休闲
+http://hw-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 浙江影视娱乐
+http://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 浙江教科影视
+http://hw-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 浙江公共新闻
+http://hw-m-l.cztv.com/channels/lantian/channel07/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 浙江国际频道
+http://hw-m-l.cztv.com/channels/lantian/channel10/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 浙江钱江都市
+http://hw-m-l.cztv.com/channels/lantian/channel02/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 浙江经视频道
+http://hw-m-l.cztv.com/channels/lantian/channel03/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 浙江留学世界
+http://hw-m-l.cztv.com/channels/lantian/channel09/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 浙江购物频道
+http://hw-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8
+#EXTINF:-1,浙江 Ⅰ 金华新闻综合
+http://live.plus.jinhua.com.cn/xwzh/playlist.m3u8
+#EXTINF:-1,浙江 Ⅰ 金华教育科技
+http://live.plus.jinhua.com.cn/jykj/app/live.m3u8
+#EXTINF:-1,浙江 Ⅰ 金华都市农村
+http://live2.plus.jinhua.com.cn/dsnc/sd/live.m3u8
+#EXTINF:-1,浙江 Ⅰ 武义新闻综合
+http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 龙游新闻综合
+http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 龙游生活娱乐
+http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 开化国家公园
+http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 兰溪新闻综合
+http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 兰溪监控直播1
+http://l.cztvcloud.com/channels/lantian/SXlanxi2/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 苍南新闻综合
+http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 长兴新闻
+http://l.cztvcloud.com/channels/lantian/SXchangxing1/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 洞头
+http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 东阳新闻综合
+http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 龙泉
+http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 开化
+http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 缙云新闻综合
+http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 温州都市生活
+http://live.wzqmt.com/wztv3/sd/live.m3u8
+#EXTINF:-1,浙江 Ⅰ 温州公共频道
+http://live.wzqmt.com/wztv4/sd/live.m3u8
+#EXTINF:-1,浙江 Ⅰ 温州经济科教
+http://live.wzqmt.com/wztv2/sd/live.m3u8
+#EXTINF:-1,浙江 Ⅰ 吉安公共频道
+http://stream.ijatv.com/jatv2/hd/live.m3u8
+#EXTINF:-1,浙江 Ⅰ 吉安新闻综合
+http://stream.ijatv.com/jatv1/hd/live.m3u8
+#EXTINF:-1,浙江 Ⅰ 余杭综合
+http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 余杭平安
+http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 余杭未来
+http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 余姚幸福生活
+http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 嵊泗新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 文成综合
+http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 文成二套
+http://l.cztvcloud.com/channels/lantian/SXwencheng2/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 永嘉新闻综合
+http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 象山新闻综合
+http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 衢江新闻综合
+http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 庆元综合
+http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 遂昌综合
+http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 松阳综合
+http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 云和新闻综合
+http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 青田电视台
+http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
+#EXTINF:-1,浙江 Ⅰ 舟曲新闻综合
+http://39.134.32.101:6610/270000001111/1110000169/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,浙江 Ⅰ 舟山公共生活
+http://stream.wifizs.cn/ggsh/sd/live.m3u8
+#EXTINF:-1,浙江 Ⅰ 舟山群岛旅游
+http://stream.wifizs.cn/qdly/sd/live.m3u8
+#EXTINF:-1,浙江 Ⅰ 舟山新闻综合
+http://stream.wifizs.cn/xwzh/sd/live.m3u8
+#EXTINF:-1,江苏 Ⅰ 南京新闻综合
+http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
+#EXTINF:-1,江苏 Ⅰ 南京教科
+http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
+#EXTINF:-1,江苏 Ⅰ 南京生活
+http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
+#EXTINF:-1,江苏 Ⅰ 南京娱乐
+http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
+#EXTINF:-1,江苏 Ⅰ 南京十八
+http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
+#EXTINF:-1,江苏 Ⅰ 南京信息
+http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
+#EXTINF:-1,河北 Ⅰ 黄骅渤海新区
+http://hbhh.chinashadt.com:2111/live/bhtv.stream/playlist.m3u8
+#EXTINF:-1,山东 Ⅰ 青岛新闻综合
+http://jsylivealone302.iqilu.com/live/jimo_tv01.m3u8
+#EXTINF:-1,山东 Ⅰ 青岛生活服务
+http://jsylivealone302.iqilu.com/live/jimo_tv02.m3u8
+#EXTINF:-1,山东 Ⅰ 潍坊奎文电视台
+http://jsylivealone302.iqilu.com/live/kuiwen_tv01/index.m3u8
+#EXTINF:-1,山东 Ⅰ 菏泽定陶一套
+http://jsylivealone302.iqilu.com/live/dingtao_tv01/index.m3u8
+#EXTINF:-1,山东 Ⅰ 菏泽单县综合
+http://jsylivealone302.iqilu.com/live/shanxian_tv01/index.m3u8
+#EXTINF:-1,山东 Ⅰ 威海文登一套
+http://jsylivealone302.iqilu.com/live/wendeng_tv01.m3u8
+#EXTINF:-1,山东 Ⅰ 威海文登二套
+http://jsylivealone302.iqilu.com/live/wendeng_tv02.m3u8
+#EXTINF:-1,山东 Ⅰ 德州图文频道
+http://video.dztv.tv:1935/live/dztw_bq/playlist.m3u8
+#EXTINF:-1,山东 Ⅰ 枣庄台儿庄一
+http://jsylivealone302.iqilu.com/live/taierzhuang_tv01/index.m3u8
+#EXTINF:-1,山东 Ⅰ 泰安宁阳一套
+http://jsylivealone302.iqilu.com/live/ningyang_tv01/index.m3u8
+#EXTINF:-1,山东 Ⅰ 泰安宁阳二套
+http://jsylivealone302.iqilu.com/live/ningyang_tv02/index.m3u8
+#EXTINF:-1,山东 Ⅰ 费县综合
+http://jsylivealone302.iqilu.com/live/feixian_tv01/index.m3u8
+#EXTINF:-1,山东 Ⅰ 费县生活
+http://jsylivealone302.iqilu.com/live/feixian_tv02/index.m3u8
+#EXTINF:-1,山东 Ⅰ 临沭一套
+http://jsylivealone302.iqilu.com/live/linshu_tv01/index.m3u8
+#EXTINF:-1,山东 Ⅰ 沂水综合
+https://jsylivealone302.iqilu.com/live/yishui_tv01/index.m3u8
+#EXTINF:-1,山东 Ⅰ 沂水二套
+https://jsylivealone302.iqilu.com/live/yishui_tv02/index.m3u8
+#EXTINF:-1,湖南 Ⅰ 湘潭综合
+http://21084.liveplay.myqcloud.com/live/21084_13241b8296ee11e892905cb9018cf0d4.m3u8
+#EXTINF:-1,湖南 Ⅰ 娄底综合频道
+http://119.39.242.52:1935/live/zonghe/playlist.m3u8
+#EXTINF:-1,湖南 Ⅰ 娄底综合频道
+http://mms.ldntv.cn:1935/live/zonghe/playlist.m3u8
+#EXTINF:-1,安徽 Ⅰ 淮北综合台
+http://live.0561rtv.cn/xwzh/hd/live.m3u8
+#EXTINF:-1,安徽 Ⅰ 淮北公共台
+http://live.0561rtv.cn/ggpd/hd/live.m3u8
+#EXTINF:-1,四川 Ⅰ 儿童
+http://scgctvshow.sctv.com/hdlive/sctv7/1.m3u8
+#EXTINF:-1,四川 Ⅰ 成都大熊猫青青
+https://gctxyc.liveplay.myqcloud.com/gc/xiongmao20_1_md.m3u8
+#EXTINF:-1,四川 Ⅰ 岳池综合
+http://liveyc.cmc.yuechirmt.cn/live/yctv.m3u8
+#EXTINF:-1,云南 Ⅰ 楚雄公共
+http://hwzbout.yunshicloud.com/gbqei5/12661u.m3u8
+#EXTINF:-1,云南 Ⅰ 文山公共
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
+#EXTINF:-1,云南 Ⅰ 普洱综合
+http://hwzbout.yunshicloud.com/701aec/orx377.m3u8
+#EXTINF:-1,新疆 Ⅰ 乌苏综合
+http://117.146.40.138:10001/hls/wstv.m3u8
+#EXTINF:-1,内蒙 Ⅰ 鄂尔多斯综合
+http://116.136.138.101:800/16XW47m/live.m3u8
+#EXTINF:-1,内蒙 Ⅰ 鄂尔多斯经济
+http://116.136.138.101:800/skr9x4S/live.m3u8
+#EXTINF:-1,内蒙 Ⅰ 鄂尔多斯生活
+http://116.136.138.101:800/Wwz5Rge/live.m3u8
+#EXTINF:-1,内蒙 Ⅰ 固阳综合
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live160861109294211.m3u8
+#EXTINF:-1,内蒙 Ⅰ 包头经济频道
+http://live.btgdt.com/channels/btgd/jjpd/flv:500k/live
+#EXTINF:-1,内蒙 Ⅰ 包头生活服务
+http://live.btgdt.com/channels/btgd/shfw/flv:500k/live
+#EXTINF:-1,内蒙 Ⅰ 包头新闻综合
+http://live.btgdt.com/channels/btgd/xwzh/flv:500k/live
+#EXTINF:-1,新疆 Ⅰ 伊利汉语综合
+http://110.153.180.106:55555/out_1/index.m3u8
+#EXTINF:-1,新疆 Ⅰ 伊利维吾尔族
+http://110.153.180.106:55555/out_2/index.m3u8
+#EXTINF:-1,新疆 Ⅰ 伊利哈萨克族
+http://110.153.180.106:55555/out_3/index.m3u8
+#EXTINF:-1,新疆 Ⅰ 伊利经济法治
+http://110.153.180.106:55555/out_4/index.m3u8
+#EXTINF:-1,新疆 Ⅰ 可克达拉综合
+http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8
+#EXTINF:-1,新疆 Ⅰ 石河子综合台
+http://124.88.144.73:1935/live/xwzh/playlist.m3u8
+#EXTINF:-1,新疆 Ⅰ 石河子影视台
+http://124.88.144.73:1935/live/jjsh/playlist.m3u8
+#EXTINF:-1,新疆 Ⅰ 石河子生活台
+http://124.88.144.73:1935/live/dywt/playlist.m3u8
+#EXTINF:-1,新疆 Ⅰ 石河子教育台
+http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
+#EXTINF:-1,新疆 Ⅰ 奎屯哈萨克语
+http://218.84.12.186:8002/hls/main/playlist.m3u8
+#EXTINF:-1,新疆 Ⅰ 奎屯综合
+http://218.84.12.186:8001/hls/main/playlist.m3u8
+#EXTINF:-1,重庆Ⅰ 忠县综合
+http://qxlmlive.cbg.cn:1935/app_2/_definst_/ls_35.stream/playlist.m3u8
+#EXTINF:-1,杭州综合
+http://117.148.179.161/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229307/index.m3u8
+#EXTINF:-1,杭州明珠
+http://117.148.179.161/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229310/index.m3u8
+#EXTINF:-1,杭州生活
+http://117.148.179.161/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229313/index.m3u8
+#EXTINF:-1,杭州影视
+http://117.148.179.161/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229377/index.m3u8
+#EXTINF:-1,TVB功夫
+http://wongloki.kmdns.net:9981/stream/channelid/1070317729
+#EXTINF:-1,TVB功夫(普通话)
+http://iptv.tvfix.org/hls/tvbkf2.m3u8
+#EXTINF:-1,虎牙-八点档
+http://bobo.jxin122.top/api/huya.php?id=880261
+#EXTINF:-1,虎牙-周星星
+http://bobo.jxin122.top/api/huya.php?id=11342412
+#EXTINF:-1,虎牙-周星星1
+http://bobo.jxin122.top/api/huya.php?id=19105261
+#EXTINF:-1,虎牙-林正英
+http://bobo.jxin122.top/api/huya.php?id=11342421
+#EXTINF:-1,虎牙-刘德华
+http://bobo.jxin122.top/api/huya.php?id=11342424
+#EXTINF:-1,虎牙-邱淑贞
+http://bobo.jxin122.top/api/huya.php?id=11352949
+#EXTINF:-1,虎牙-甄子丹
+http://bobo.jxin122.top/api/huya.php?id=11352935
+#EXTINF:-1,虎牙-李连杰
+http://bobo.jxin122.top/api/huya.php?id=11342390
+#EXTINF:-1,虎牙-周润发
+http://bobo.jxin122.top/api/huya.php?id=11342387
+#EXTINF:-1,虎牙-古天乐
+http://bobo.jxin122.top/api/huya.php?id=11602041
+#EXTINF:-1,虎牙-张学友
+http://bobo.jxin122.top/api/huya.php?id=11352878
+#EXTINF:-1,虎牙-五福星
+http://bobo.jxin122.top/api/huya.php?id=11282233
+#EXTINF:-1,虎牙-沈腾
+http://bobo.jxin122.top/api/huya.php?id=11601968
+#EXTINF:-1,虎牙-徐峥
+http://bobo.jxin122.top/api/huya.php?id=11602043
+#EXTINF:-1,虎牙-成龙
+http://bobo.jxin122.top/api/huya.php?id=11342386
+#EXTINF:-1,虎牙-吴京
+http://bobo.jxin122.top/api/huya.php?id=11602045
+#EXTINF:-1,虎牙-【警匪】
+http://bobo.jxin122.top/api/huya.php?id=11352886
+#EXTINF:-1,虎牙-搞笑恐怖类
+http://bobo.jxin122.top/api/huya.php?id=11601960
+#EXTINF:-1,虎牙-搞笑喜剧
+http://bobo.jxin122.top/api/huya.php?id=11342423
+#EXTINF:-1,虎牙-惊魂 恐怖片
+http://bobo.jxin122.top/api/huya.php?id=11352945
+#EXTINF:-1,虎牙-科幻系列
+http://bobo.jxin122.top/api/huya.php?id=11352895
+#EXTINF:-1,虎牙-生化危机
+http://bobo.jxin122.top/api/huya.php?id=21059553
+#EXTINF:-1,虎牙-si神来了系列
+http://bobo.jxin122.top/api/huya.php?id=11352903
+#EXTINF:-1,虎牙-灾难大片
+http://bobo.jxin122.top/api/huya.php?id=11352887
+#EXTINF:-1,虎牙-快意江湖
+http://bobo.jxin122.top/api/huya.php?id=11342435
+#EXTINF:-1,虎牙-武侠动作
+http://bobo.jxin122.top/api/huya.php?id=11352897
+#EXTINF:-1,虎牙-喜剧专场1
+http://bobo.jxin122.top/api/huya.php?id=11352894
+#EXTINF:-1,虎牙-黄金配角
+http://bobo.jxin122.top/api/huya.php?id=11336592
+#EXTINF:-1,虎牙-这很不同
+http://bobo.jxin122.top/api/huya.php?id=11602067
+#EXTINF:-1,虎牙-年贺岁档
+http://bobo.jxin122.top/api/huya.php?id=11601986
+#EXTINF:-1,虎牙-黑帮斗争
+http://bobo.jxin122.top/api/huya.php?id=11342419
+#EXTINF:-1,虎牙-金庸经典
+http://bobo.jxin122.top/api/huya.php?id=11342427
+#EXTINF:-1,虎牙-陈翔六点半
+http://bobo.jxin122.top/api/huya.php?id=11274154
+#EXTINF:-1,虎牙-老雷
+http://bobo.jxin122.top/api/huya.php?id=11602034
+#EXTINF:-1,虎牙-初心
+http://bobo.jxin122.top/api/huya.php?id=11352941
+#EXTINF:-1,虎牙-宅妹
+http://bobo.jxin122.top/api/huya.php?id=11352954
+#EXTINF:-1,虎牙-高智商罪犯
+http://bobo.jxin122.top/api/huya.php?id=11352962
+#EXTINF:-1,虎牙-喜剧合家欢
+http://bobo.jxin122.top/api/huya.php?id=11352877
+#EXTINF:-1,虎牙-盗墓系列
+http://bobo.jxin122.top/api/huya.php?id=11352913
+#EXTINF:-1,虎牙-玄幻剧场1
+http://bobo.jxin122.top/api/huya.php?id=11342414
+#EXTINF:-1,虎牙-xing感有DU
+http://bobo.jxin122.top/api/huya.php?id=11352892
+#EXTINF:-1,虎牙-笑破肚皮
+http://bobo.jxin122.top/api/huya.php?id=11336590
+#EXTINF:-1,虎牙-智商在线
+http://bobo.jxin122.top/api/huya.php?id=11342395
+#EXTINF:-1,虎牙-许氏三杰
+http://bobo.jxin122.top/api/huya.php?id=11602033
+#EXTINF:-1,虎牙-喜剧专场
+http://bobo.jxin122.top/api/huya.php?id=11602044
+#EXTINF:-1,虎牙-港剧最佳拍档
+http://bobo.jxin122.top/api/huya.php?id=11601972
+#EXTINF:-1,虎牙-麦芽糖糖ぴ
+http://bobo.jxin122.top/api/huya.php?id=11602077
+#EXTINF:-1,虎牙-葛大爷
+http://bobo.jxin122.top/api/huya.php?id=11601965
+#EXTINF:-1,虎牙-鬼才徐克
+http://bobo.jxin122.top/api/huya.php?id=11352909
+#EXTINF:-1,虎牙-苦瓜老姨
+http://bobo.jxin122.top/api/huya.php?id=11342429
+#EXTINF:-1,虎牙-警匪犯罪
+http://bobo.jxin122.top/api/huya.php?id=11601971
+#EXTINF:-1,虎牙-宝藏电影
+http://bobo.jxin122.top/api/huya.php?id=11352963
+#EXTINF:-1,虎牙-中国加油
+http://bobo.jxin122.top/api/huya.php?id=880256
+#EXTINF:-1,虎牙-vip君临剧好玩
+http://bobo.jxin122.top/api/huya.php?id=24888247
+#EXTINF:-1,虎牙-活佛济公
+http://bobo.jxin122.top/api/huya.php?id=11342400
+#EXTINF:-1,虎牙-李卫
+http://bobo.jxin122.top/api/huya.php?id=11601962
+#EXTINF:-1,虎牙-六子哥
+http://bobo.jxin122.top/api/huya.php?id=11602086
+#EXTINF:-1,虎牙-胡八一
+http://bobo.jxin122.top/api/huya.php?id=11352871
+#EXTINF:-1,虎牙-药不能停
+http://bobo.jxin122.top/api/huya.php?id=11601980
+#EXTINF:-1,虎牙-精彩古装
+http://bobo.jxin122.top/api/huya.php?id=11602046
+#EXTINF:-1,虎牙-倚天记屠龙刀
+http://bobo.jxin122.top/api/huya.php?id=11342403
+#EXTINF:-1,虎牙-兜兜з
+http://bobo.jxin122.top/api/huya.php?id=11352910
+#EXTINF:-1,虎牙-春光灿烂猪八戒
+http://bobo.jxin122.top/api/huya.php?id=11352906
+#EXTINF:-1,虎牙-宝莲灯
+http://bobo.jxin122.top/api/huya.php?id=11602088
+#EXTINF:-1,虎牙-惟美
+http://bobo.jxin122.top/api/huya.php?id=11352885
+#EXTINF:-1,虎牙-镖行天下
+http://bobo.jxin122.top/api/huya.php?id=11352969
+#EXTINF:-1,虎牙-国产动作大片
+http://bobo.jxin122.top/api/huya.php?id=11352869
+#EXTINF:-1,虎牙-柯冉冉
+http://bobo.jxin122.top/api/huya.php?id=11352874
+#EXTINF:-1,虎牙-武林萌主唐小姐
+http://bobo.jxin122.top/api/huya.php?id=11336726
+#EXTINF:-1,虎牙-痞子帅叔叔
+http://bobo.jxin122.top/api/huya.php?id=11342433
+#EXTINF:-1,虎牙-纪晓岚
+http://bobo.jxin122.top/api/huya.php?id=11342396
+#EXTINF:-1,虎牙-鯎爺
+http://bobo.jxin122.top/api/huya.php?id=11352944
+#EXTINF:-1,虎牙-许三多
+http://bobo.jxin122.top/api/huya.php?id=11342430
+#EXTINF:-1,虎牙-新水hu
+http://bobo.jxin122.top/api/huya.php?id=11342384
+#EXTINF:-1,虎牙-康熙·民间私访
+http://bobo.jxin122.top/api/huya.php?id=11342418
+#EXTINF:-1,虎牙-呆萌小岳岳
+http://bobo.jxin122.top/api/huya.php?id=11342398
+#EXTINF:-1,虎牙-邻li一家亲
+http://bobo.jxin122.top/api/huya.php?id=11342426
+#EXTINF:-1,虎牙-雍正皇帝
+http://bobo.jxin122.top/api/huya.php?id=11342439
+#EXTINF:-1,虎牙-桃园结义
+http://bobo.jxin122.top/api/huya.php?id=11602081
+#EXTINF:-1,虎牙-康熙大帝
+http://bobo.jxin122.top/api/huya.php?id=11352940
+#EXTINF:-1,虎牙-yi馆笑传
+http://bobo.jxin122.top/api/huya.php?id=11352891
+#EXTINF:-1,虎牙-四次元先生
+http://bobo.jxin122.top/api/huya.php?id=11602071
+#EXTINF:-1,虎牙-老王夸我帅
+http://bobo.jxin122.top/api/huya.php?id=11352964
+#EXTINF:-1,虎牙-狄仁杰
+http://bobo.jxin122.top/api/huya.php?id=11352958
+#EXTINF:-1,虎牙-茱麗葉
+http://bobo.jxin122.top/api/huya.php?id=11602072
+#EXTINF:-1,虎牙-一代强秦
+http://bobo.jxin122.top/api/huya.php?id=11602074
+#EXTINF:-1,虎牙-我de团长我的团
+http://bobo.jxin122.top/api/huya.php?id=11342416
+#EXTINF:-1,虎牙-芈月专
+http://bobo.jxin122.top/api/huya.php?id=11352975
+#EXTINF:-1,虎牙-萌新司机
+http://bobo.jxin122.top/api/huya.php?id=11352881
+#EXTINF:-1,虎牙-神医必备
+http://bobo.jxin122.top/api/huya.php?id=11601978
+#EXTINF:-1,虎牙-蒋家王朝覆灭
+http://bobo.jxin122.top/api/huya.php?id=11352912
+#EXTINF:-1,虎牙-封神榜
+http://bobo.jxin122.top/api/huya.php?id=11342388
+#EXTINF:-1,虎牙-持枪者
+http://bobo.jxin122.top/api/huya.php?id=11336578
+#EXTINF:-1,虎牙-乔家大院
+http://bobo.jxin122.top/api/huya.php?id=11352899
+#EXTINF:-1,虎牙-萧十一郎
+http://bobo.jxin122.top/api/huya.php?id=11602065
+#EXTINF:-1,虎牙-Mr-傀儡
+http://bobo.jxin122.top/api/huya.php?id=11352936
+#EXTINF:-1,埋堆堆1
+http://bobo.jxin122.top/api/huya.php?id=23749096
+#EXTINF:-1,埋堆堆2
+http://bobo.jxin122.top/api/huya.php?id=23735126
+#EXTINF:-1,埋堆堆3
+http://bobo.jxin122.top/api/huya.php?id=23865152
+#EXTINF:-1,埋堆堆4
+http://bobo.jxin122.top/api/huya.php?id=23903196
+#EXTINF:-1,埋堆堆5
+http://bobo.jxin122.top/api/huya.php?id=23740156
+#EXTINF:-1,埋堆堆6
+http://bobo.jxin122.top/api/huya.php?id=23728660
+#EXTINF:-1,埋堆堆7
+http://bobo.jxin122.top/api/huya.php?id=23735153
+#EXTINF:-1,埋堆堆8
+http://bobo.jxin122.top/api/huya.php?id=23865058
+#EXTINF:-1,埋堆堆9
+http://bobo.jxin122.top/api/huya.php?id=23734183
+#EXTINF:-1,埋堆堆10
+http://bobo.jxin122.top/api/huya.php?id=23749068
+#EXTINF:-1,埋堆堆11
+http://bobo.jxin122.top/api/huya.php?id=23865036
+#EXTINF:-1,埋堆堆12
+http://bobo.jxin122.top/api/huya.php?id=23740162
+#EXTINF:-1,埋堆堆14
+http://bobo.jxin122.top/api/huya.php?id=23863833
+#EXTINF:-1,埋堆堆15
+http://bobo.jxin122.top/api/huya.php?id=23903106
+#EXTINF:-1,埋堆堆16
+http://bobo.jxin122.top/api/huya.php?id=23865025
+#EXTINF:-1,埋堆堆17
+http://bobo.jxin122.top/api/huya.php?id=23728689
+#EXTINF:-1,埋堆堆18
+http://bobo.jxin122.top/api/huya.php?id=23824171
+#EXTINF:-1,埋堆堆19
+http://bobo.jxin122.top/api/huya.php?id=23860057
+#EXTINF:-1,埋堆堆20
+http://bobo.jxin122.top/api/huya.php?id=23865072
+#EXTINF:-1,埋堆堆22
+http://bobo.jxin122.top/api/huya.php?id=23728651
+#EXTINF:-1,埋堆堆24
+http://bobo.jxin122.top/api/huya.php?id=23865179
+#EXTINF:-1,埋堆堆25
+http://bobo.jxin122.top/api/huya.php?id=23734196
+#EXTINF:-1,埋堆堆26
+http://bobo.jxin122.top/api/huya.php?id=23734211
+#EXTINF:-1,埋堆堆27
+http://bobo.jxin122.top/api/huya.php?id=23865086
+#EXTINF:-1,埋堆堆29
+http://bobo.jxin122.top/api/huya.php?id=23863822
+#EXTINF:-1,埋堆堆30
+http://bobo.jxin122.top/api/huya.php?id=23749083
+#EXTINF:-1,埋堆堆32
+http://bobo.jxin122.top/api/huya.php?id=23864480
+#EXTINF:-1,埋堆堆34
+http://bobo.jxin122.top/api/huya.php?id=23860049
+#EXTINF:-1,埋堆堆35
+http://bobo.jxin122.top/api/huya.php?id=23749074
+#EXTINF:-1,埋堆堆36
+http://bobo.jxin122.top/api/huya.php?id=23863882
+#EXTINF:-1,埋堆堆37
+http://bobo.jxin122.top/api/huya.php?id=23863778
+#EXTINF:-1,埋堆堆38
+http://bobo.jxin122.top/api/huya.php?id=23824164
+#EXTINF:-1,埋堆堆39
+http://bobo.jxin122.top/api/huya.php?id=23829537
+#EXTINF:-1,埋堆堆40
+http://bobo.jxin122.top/api/huya.php?id=23863809
+#EXTINF:-1,埋堆堆41
+http://bobo.jxin122.top/api/huya.php?id=23865096
+#EXTINF:-1,埋堆堆42
+http://bobo.jxin122.top/api/huya.php?id=23863804
+#EXTINF:-1,埋堆堆44
+http://bobo.jxin122.top/api/huya.php?id=23863895
+#EXTINF:-1,埋堆堆45
+http://bobo.jxin122.top/api/huya.php?id=23863787
+#EXTINF:-1,埋堆堆47
+http://bobo.jxin122.top/api/huya.php?id=23865142
+#EXTINF:-1,埋堆堆48
+http://bobo.jxin122.top/api/huya.php?id=23903085
+#EXTINF:-1,埋堆堆49
+http://bobo.jxin122.top/api/huya.php?id=23903183
+#EXTINF:-1,埋堆堆50
+http://bobo.jxin122.top/api/huya.php?id=23728647
+#EXTINF:-1,埋堆堆51
+http://bobo.jxin122.top/api/huya.php?id=23746691
+#EXTINF:-1,埋堆堆52
+http://bobo.jxin122.top/api/huya.php?id=23829447
+#EXTINF:-1,埋堆堆53
+http://bobo.jxin122.top/api/huya.php?id=23728693
+#EXTINF:-1,埋堆堆55
+http://bobo.jxin122.top/api/huya.php?id=23734223
+#EXTINF:-1,埋堆堆57
+http://bobo.jxin122.top/api/huya.php?id=23865124
+#EXTINF:-1,埋堆堆58
+http://bobo.jxin122.top/api/huya.php?id=23865186
+#EXTINF:-1,埋堆堆59
+http://bobo.jxin122.top/api/huya.php?id=23902225
+#EXTINF:-1,埋堆堆60
+http://bobo.jxin122.top/api/huya.php?id=23903164
+#EXTINF:-1,埋堆堆61
+http://bobo.jxin122.top/api/huya.php?id=23728674
+#EXTINF:-1,埋堆堆62
+http://bobo.jxin122.top/api/huya.php?id=23863818
+#EXTINF:-1,埋堆堆63
+http://bobo.jxin122.top/api/huya.php?id=23865171
+#EXTINF:-1,埋堆堆64
+http://bobo.jxin122.top/api/huya.php?id=23728595
+#EXTINF:-1,埋堆堆65
+http://bobo.jxin122.top/api/huya.php?id=23734256
+#EXTINF:-1,埋堆堆66
+http://bobo.jxin122.top/api/huya.php?id=23829543
+#EXTINF:-1,历史 军事
+http://bobo.jxin122.top/api/douyu.php?id=4870914
+#EXTINF:-1,斗鱼-华语院线
+http://bobo.jxin122.top/api/douyu.php?id=5581257
+#EXTINF:-1,斗鱼-恐怖电影
+http://bobo.jxin122.top/api/douyu.php?id=9275635
+#EXTINF:-1,斗鱼-❤️奶瓶❤️
+http://bobo.jxin122.top/api/douyu.php?id=6655271
+#EXTINF:-1,斗鱼-刘德华
+http://bobo.jxin122.top/api/douyu.php?id=2516864
+#EXTINF:-1,斗鱼-等你一起玩
+http://bobo.jxin122.top/api/douyu.php?id=2714
+#EXTINF:-1,斗鱼-小丸子
+http://bobo.jxin122.top/api/douyu.php?id=8986148
+#EXTINF:-1,斗鱼-仓鼠星
+http://bobo.jxin122.top/api/douyu.php?id=5427842
+#EXTINF:-1,斗鱼-4K R
+http://bobo.jxin122.top/api/douyu.php?id=9249162
+#EXTINF:-1,斗鱼-花卷陪看
+http://bobo.jxin122.top/api/douyu.php?id=52787
+#EXTINF:-1,斗鱼-IMAX影厅
+http://bobo.jxin122.top/api/douyu.php?id=4332
+#EXTINF:-1,斗鱼-Firend黎伽嘛
+http://bobo.jxin122.top/api/douyu.php?id=8603174
+#EXTINF:-1,斗鱼-国产青春
+http://bobo.jxin122.top/api/douyu.php?id=5423
+#EXTINF:-1,斗鱼-贝爷影厅
+http://bobo.jxin122.top/api/douyu.php?id=252802
+#EXTINF:-1,斗鱼-贝爷影厅1
+http://bobo.jxin122.top/api/douyu.php?id=36337
+#EXTINF:-1,斗鱼-经典巨制
+http://bobo.jxin122.top/api/douyu.php?id=2793084
+#EXTINF:-1,斗鱼-米娅陪看
+http://bobo.jxin122.top/api/douyu.php?id=6537888
+#EXTINF:-1,斗鱼-工藤媛子
+http://bobo.jxin122.top/api/douyu.php?id=6003761
+#EXTINF:-1,斗鱼-软糖开心
+http://bobo.jxin122.top/api/douyu.php?id=7842226
+#EXTINF:-1,斗鱼-千部经典
+http://bobo.jxin122.top/api/douyu.php?id=7882691
+#EXTINF:-1,斗鱼-339影院
+http://bobo.jxin122.top/api/douyu.php?id=1274132
+#EXTINF:-1,斗鱼-译制国语
+http://bobo.jxin122.top/api/douyu.php?id=2436390
+#EXTINF:-1,斗鱼-鱼宝好困
+http://bobo.jxin122.top/api/douyu.php?id=1165374
+#EXTINF:-1,斗鱼-网神影厅
+http://bobo.jxin122.top/api/douyu.php?id=508118
+#EXTINF:-1,斗鱼-小阳聪
+http://bobo.jxin122.top/api/douyu.php?id=7673566
+#EXTINF:-1,斗鱼-嗷大喵
+http://bobo.jxin122.top/api/douyu.php?id=4282654
+#EXTINF:-1,斗鱼-邦德
+http://bobo.jxin122.top/api/douyu.php?id=9292499
+#EXTINF:-1,斗鱼-鱼小丸梓
+http://bobo.jxin122.top/api/douyu.php?id=6140589
+#EXTINF:-1,斗鱼-清晰林正英
+http://bobo.jxin122.top/api/douyu.php?id=7356023
+#EXTINF:-1,斗鱼-Liz陪看
+http://bobo.jxin122.top/api/douyu.php?id=7254536
+#EXTINF:-1,斗鱼-梁十一
+http://bobo.jxin122.top/api/douyu.php?id=7270927
+#EXTINF:-1,斗鱼-小鸽陪看
+http://bobo.jxin122.top/api/douyu.php?id=3928
+#EXTINF:-1,斗鱼-❤️冰冰❤️
+http://bobo.jxin122.top/api/douyu.php?id=74374
+#EXTINF:-1,斗鱼-❤️小U❤️
+http://bobo.jxin122.top/api/douyu.php?id=96577
+#EXTINF:-1,斗鱼-❤️小饼❤️
+http://bobo.jxin122.top/api/douyu.php?id=1735337
+#EXTINF:-1,斗鱼-蒲蚂蚱
+http://bobo.jxin122.top/api/douyu.php?id=6079455
+#EXTINF:-1,斗鱼-晚晚Vivi
+http://bobo.jxin122.top/api/douyu.php?id=8861179
+#EXTINF:-1,斗鱼-瑶瑶
+http://bobo.jxin122.top/api/douyu.php?id=2935323
+#EXTINF:-1,斗鱼-✨诺诺陪看✨
+http://bobo.jxin122.top/api/douyu.php?id=252536
+#EXTINF:-1,斗鱼-小梦静
+http://bobo.jxin122.top/api/douyu.php?id=2288676
+#EXTINF:-1,斗鱼-港电影院
+http://bobo.jxin122.top/api/douyu.php?id=9826611
+#EXTINF:-1,斗鱼-粤语电影
+http://bobo.jxin122.top/api/douyu.php?id=1226741
+#EXTINF:-1,斗鱼-♥️周杰伦♥️
+http://bobo.jxin122.top/api/douyu.php?id=7537296
+#EXTINF:-1,斗鱼-宇哥Rebirth
+http://bobo.jxin122.top/api/douyu.php?id=413573
+#EXTINF:-1,斗鱼-破案-推理-悬疑
+http://bobo.jxin122.top/api/douyu.php?id=6091425
+#EXTINF:-1,斗鱼-港剧直播
+http://bobo.jxin122.top/api/douyu.php?id=4549169
+#EXTINF:-1,斗鱼-爱情公寓
+http://bobo.jxin122.top/api/douyu.php?id=6863367
+#EXTINF:-1,斗鱼-黎黎来了
+http://bobo.jxin122.top/api/douyu.php?id=7116591
+#EXTINF:-1,斗鱼-萌牛奶
+http://bobo.jxin122.top/api/douyu.php?id=7494871
+#EXTINF:-1,斗鱼-亲奶瓶
+http://bobo.jxin122.top/api/douyu.php?id=6546908
+#EXTINF:-1,斗鱼-马大姐
+http://bobo.jxin122.top/api/douyu.php?id=5658951
+#EXTINF:-1,斗鱼-肖胜350
+http://bobo.jxin122.top/api/douyu.php?id=7338853
+#EXTINF:-1,斗鱼-菜园小饼
+http://bobo.jxin122.top/api/douyu.php?id=7701735
+#EXTINF:-1,斗鱼-拌果条丶
+http://bobo.jxin122.top/api/douyu.php?id=8168353
+#EXTINF:-1,斗鱼-❤救救小鸭吧❤
+http://bobo.jxin122.top/api/douyu.php?id=7925840
+#EXTINF:-1,斗鱼-军旅动作
+http://bobo.jxin122.top/api/douyu.php?id=431460
+#EXTINF:-1,斗鱼-华语点歌台
+http://bobo.jxin122.top/api/douyu.php?id=3186217
+#EXTINF:-1,斗鱼-林林影视
+http://bobo.jxin122.top/api/douyu.php?id=9652323
+#EXTINF:-1,经典功夫台
+http://cn-sdjn2-cu-live-01.bilivideo.com/live-bvc/829967/live_179302204_68184269_1500.m3u8
+#EXTINF:-1,熊猫音乐
+https://vd2.bdstatic.com/mda-mhig1c3sw223mx8p/1080p/cae_h264/1629380139191731149/mda-mhig1c3sw223mx8p.mp4
+#EXTINF:-1,熊猫-2台
+http://cn-sdjn2-cu-live-01.bilivideo.com/live-bvc/816621/live_400311478_37488632.m3u8
+#EXTINF:-1,熊猫电影
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1,星光精彩视界
+http://zzy789.xyz/douyu1.php?id=5326177
+#EXTINF:-1,老电影
+http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
+#EXTINF:-1,老电影
+https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/194276/live_97065163_17925468.m3u8
+#EXTINF:-1,星光精彩世界
+http://bobo.jxin122.top/api/douyu.php?id=5326177
+#EXTINF:-1,橙子影视2
+http://bobo.jxin122.top/api/bili.php?id=21571201
+#EXTINF:-1,动作电影
+http://39.134.115.163:8080/PLTV/88888910/224/3221225671/index.m3u8 
+#EXTINF:-1,超级电影
+http://39.135.138.60:18890/PLTV/88888910/224/3221225623/index.m3u8 
+#EXTINF:-1,K K_开心影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8 
+#EXTINF:-1,英叔电影
+https://tx.liveplay.live.kugou.com/live/fx_hifi_1308614369_avc.m3u8
+#EXTINF:-1,歐美影院
+http://125.210.152.21:9120/live/OMYY.m3u8
+#EXTINF:-1,酷狗.影视6
+http://tx.liveplay.live.fanxing.com/live/fx_hifi_1703410100_std_avc.m3u8
+#EXTINF:-1,酷狗.影视10
+http://tx.liveplay.live.fanxing.com/live/fx_hifi_251702616_std_avc.m3u8
+#EXTINF:-1,酷狗.影视4
+http://tx.liveplay.live.fanxing.com:80/live/fx_hifi_1772083185_avc.xs
+#EXTINF:-1,酷狗.影视4
+http://tx.liveplay.live.fanxing.com/live/fx_hifi_1398580524_avc.m3u8
+#EXTINF:-1,1
+http://tx.liveplay.live.fanxing.com/live/fx_hifi_1772083185_avc.m3u8
+#EXTINF:-1,酷狗动作电影
+https://tx.liveplay.live.kugou.com:443/live/fx_hifi_1789509948_avc.m3u8
+#EXTINF:-1,酷狗奇幻系列
+http://tx.liveplay.live.fanxing.com/live/fx_hifi_1308614369_avc.m3u8
+#EXTINF:-1,酷狗VIP影视
+http://tx.liveplay.live.kugou.com:80/live/fx_hifi_1319986999_std_avc.m3u8
+#EXTINF:-1,酷狗经典影视
+http://tx.liveplay.live.fanxing.com:80/live/fx_hifi_1772083185_avc.m3u8
+#EXTINF:-1,酷狗.影视2
+http://tx.liveplay.live.fanxing.com/live/fx_hifi_1417248603_std_avc.m3u8
+#EXTINF:-1,酷狗.影视5
+http://tx.liveplay.live.fanxing.com/live/fx_hifi_1175010873_avc.m3u8

@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2019/0304/2019030413223021.jpg" group-title="网络广播",AsiaFM亚洲音乐台
+mms://asiafm.cn/asiafm
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2020/0410/20200410031019.jpeg" group-title="网络广播",AsiaFM亚洲天空台
+mms://funradio.cn/funradio
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2020/0410/20200410022034.jpeg" group-title="网络广播",AsiaFM亚洲经典台
+mms://goldfm.cn/goldfm
+#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2015/0909/20150909150229198.jpg" group-title="网络广播",AsiaFM亚洲HD音乐台
+mms://asiafm.cn/asiahd
