@@ -1,0 +1,3 @@
+IPTV,https://gitee.com/gakiki/iptv_live_source/raw/master/IPTV.m3u8
+电信IPTV,https://gitee.com/hutao4399/IPTV/raw/master/dianxinIPTV.m3u8
+移动IPTV,https://gitee.com/hutao4399/IPTV/raw/master/yidongIPTV.m3u8

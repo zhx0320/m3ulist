@@ -1,0 +1,528 @@
+Export from 影音宝 - 听你想听的，看你想看的
+廣東-丹霞山丹梯鐵鎖,https://gcalic.v.myalicdn.com/gc/dxsdtts_1/index.m3u8?contentid=2820180516001
+廣東-深圳世界之窗,https://gcalic.v.myalicdn.com/gc/sjzc01_1/index.m3u8?contentid=2820180516001
+廣東-東莞中心廣場,https://gcalic.v.myalicdn.com/gc/zsslstpt_1/index.m3u8?contentid=2820180516001
+湖南-寶峰湖,https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8?contentid=2820180516001
+湖南-張家界迷魂台,https://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8?contentid=2820180516001
+湖南-阿凡達懸浮山,https://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8?contentid=2820180516001
+湖南-張家界將軍列隊,https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8?contentid=2820180516001
+湖南-張家界水繞四門,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8?contentid=2820180516001
+湖南-鳳凰古城東關門,https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8?contentid=2820180516001
+湖南-鳳凰古城南華山,https://gcalic.v.myalicdn.com/gc/fhgcdnhs_1/index.m3u8?contentid=2820180516001
+湖南-十八洞村,https://gcalic.v.myalicdn.com/gc/sbd01_1/index.m3u8?contentid=2820180516001
+湖南-天門山雲夢仙頂,https://gcalic.v.myalicdn.com/gc/tms04_1/index.m3u8?contentid=2820180516001
+湖南-天門山西線玻璃棧道,https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8?contentid=2820180516001
+湖南-天門山天空步道,https://gcalic.v.myalicdn.com/gc/tms02_1/index.m3u8?contentid=2820180516001
+湖南-天門山天門洞,https://gcalic.v.myalicdn.com/gc/tmstmd01_1/index.m3u8?contentid=2820180516001
+湖北-金絲猴01,https://gcalic.v.myalicdn.com/gc/jshhd01_1/index.m3u8?contentid=2820180516001
+湖北-武漢長江大橋,https://gcalic.v.myalicdn.com/gc/qdls04_1/index.m3u8?contentid=2820180516001
+湖北-龍王廟,https://gcalic.v.myalicdn.com/gc/hnttbdjd_1/index.m3u8?contentid=2820180516001
+湖北-武漢黃鶴樓,https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8?contentid=2820180516001
+河南-八里溝天界山玻璃棧道,https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8?contentid=2820180516001
+河南-八里溝桃花灣瀑布,https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8?contentid=2820180516001
+河南-雲台山茱萸峰,https://gcalic.v.myalicdn.com/gc/ytszyf_1/index.m3u8?contentid=2820180516001
+河南-雲台山紅石峽,https://gcalic.v.myalicdn.com/gc/ytshsx_1/index.m3u8?contentid=2820180516001
+河南-雲台山百家巖,https://gcalic.v.myalicdn.com/gc/ytsbjy_1/index.m3u8?contentid=2820180516001
+河南-雲台山小寨溝,https://gcalic.v.myalicdn.com/gc/ytsxzg_1/index.m3u8?contentid=2820180516001
+河南-少林寺廣場,https://gcalic.v.myalicdn.com/gc/zsslsgc_1/index.m3u8?contentid=2820180516001
+河南-鄭東新區千璽廣場,https://gcalic.v.myalicdn.com/gc/zdxq01_1/index.m3u8?contentid=2820180516001
+山東-泰山大觀峰,https://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8?contentid=2820180516001
+山東-泰山玉皇頂,https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8?contentid=2820180516001
+山東-泰山天街,https://gcalic.v.myalicdn.com/gc/taishan07_1/index.m3u8?contentid=2820180516001
+山東-拱北日出,https://gcalic.v.myalicdn.com/gc/hkts01_1/index.m3u8?contentid=2820180516001
+山東-白雲亭懸崖,https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8?contentid=2820180516001
+山東-碧霞祠,https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8?contentid=2820180516001
+山東-經石峪,https://gcalic.v.myalicdn.com/gc/hkts04_1/index.m3u8?contentid=2820180516001
+山東-開山,https://gcalic.v.myalicdn.com/gc/hkts05_1/index.m3u8?contentid=2820180516001
+山東-南天門,https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8?contentid=2820180516001
+山東-扇子崖,https://gcalic.v.myalicdn.com/gc/hkts08_1/index.m3u8?contentid=2820180516001
+山東-太平嶺,https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8?contentid=2820180516001
+山東-玉皇頂東,https://gcalic.v.myalicdn.com/gc/hkts10_1/index.m3u8?contentid=2820180516001
+山東-玉皇頂西,https://gcalic.v.myalicdn.com/gc/hkts11_1/index.m3u8?contentid=2820180516001
+山東-泰山十八盤,https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8?contentid=2820180516001
+山東-瞻魯台,https://gcalic.v.myalicdn.com/gc/hkts06_1/index.m3u8?contentid=2820180516001
+山東-泰山主峰,https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8?contentid=2820180516001
+山東-泰山,https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8?contentid=2820180516001
+江西-龍虎山-中間水泡,https://gcalic.v.myalicdn.com/gc/lhszjsp_1/index.m3u8?contentid=2820180516001
+江西-婺源江嶺1號觀景台,https://gcalic.v.myalicdn.com/gc/wygjt1_1/index.m3u8?contentid=2820180516001
+江西-婺源江嶺2號觀景台,https://gcalic.v.myalicdn.com/gc/wygjt2_1/index.m3u8?contentid=2820180516001
+福建-醉美沙灘翡翠灣,https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8?contentid=2820180516001
+福建-漳州六鰲翡翠灣,https://gcalic.v.myalicdn.com/gc/fcw01_1/index.m3u8?contentid=2820180516001
+福建-寧德太姥山景區,https://gcalic.v.myalicdn.com/gc/tms01_1/index.m3u8?contentid=2820180516001
+福建-武夷山玉女峰,https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8?contentid=2820180516001
+福建-廈門鼓浪嶼,https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8?contentid=2820180516001
+安徽-九華山花台,https://gcalic.v.myalicdn.com/gc/jhs01_1/index.m3u8?contentid=2820180516001
+安徽-九華山,https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8?contentid=2820180516001
+安徽-九華山拜經台,https://gcalic.v.myalicdn.com/gc/jhs02_1/index.m3u8?contentid=2820180516001
+安徽-黃山排雲亭,https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8?contentid=2820180516001
+安徽-黃山平天矼,https://gcalic.v.myalicdn.com/gc/hsptgz_1/index.m3u8?contentid=2820180516001
+安徽-黃山飛來石,https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8?contentid=2820180516001
+安徽-黃山光明頂,https://gcalic.v.myalicdn.com/gc/hsgmd_1/index.m3u8?contentid=2820180516001
+安徽-黃山夢筆生花,https://gcalic.v.myalicdn.com/gc/hsmbsh_1/index.m3u8?contentid=2820180516001
+安徽-黃山臥雲峰,https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8?contentid=2820180516001
+安徽-黃山始信新道,https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8?contentid=2820180516001
+安徽-黃山,https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8?contentid=2820180516001
+安徽-宏村南湖,https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8?contentid=2820180516001
+安徽-黟縣蘆村遠眺,https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8?contentid=2820180516001
+安徽-西遞半山亭,https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8?contentid=2820180516001
+安徽-宏村月沼,https://gcalic.v.myalicdn.com/gc/yxhcyz_1/index.m3u8?contentid=2820180516001
+安徽-西遞牌坊,https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8?contentid=2820180516001
+浙江-烏鎮龍形田,https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8?contentid=2820180516001
+浙江-烏鎮西市河,https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8?contentid=2820180516001
+浙江-烏鎮全景,https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8?contentid=2820180516001
+浙江-烏鎮藍印花布,https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8?contentid=2820180516001
+浙江-麗水仙都風景區,https://gcalic.v.myalicdn.com/gc/xdfjq01_1/index.m3u8?contentid=2820180516001
+浙江-舟山東極島,https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8?contentid=2820180516001
+浙江-普陀山,https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8?contentid=2820180516001
+浙江-千島湖,https://gcalic.v.myalicdn.com/gc/caqdh_1/index.m3u8?contentid=2820180516001
+浙江-雲棲小鎮,https://gcalic.v.myalicdn.com/gc/hnttpgsz_1/index.m3u8?contentid=2820180516001
+江蘇-興化千垛景區,https://mlivecncc.v.wscdns.com/mlive/mlive_djy02_1/index.m3u8?contentid=2820180516001
+江蘇-徐州雲龍湖觀景台南,https://gcalic.v.myalicdn.com/gc/ylh03_1/index.m3u8?contentid=2820180516001
+江蘇-徐州雲龍湖觀景台西,https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8?contentid=2820180516001
+江蘇-南京玄武湖公園,https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8?contentid=2820180516001
+江蘇-南京牛首山,https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8?contentid=2820180516001
+江蘇-無錫黿頭渚賞櫻閣,https://gcalic.v.myalicdn.com/gc/pshdxg01_1/index.m3u8?contentid=2820180516001
+黑龍江-雪鄉夢幻家園,https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8?contentid=2820180516001
+遼寧-沈陽金廊,https://gcalic.v.myalicdn.com/gc/zsslsjjfsd_1/index.m3u8?contentid=2820180516001
+山西-懸空寺全景,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8?contentid=2820180516001
+天津-天津海河,https://gcalic.v.myalicdn.com/gc/tjhh02_1/index.m3u8?contentid=2820180516001
+天津-天津之眼,https://gcalic.v.myalicdn.com/gc/tjhh01_1/index.m3u8?contentid=2820180516001
+北京-中央電視塔東,http://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
+北京-八達嶺長城南七樓,http://gcalic.v.myalicdn.com/gc/bgws7_1/index.m3u8?contentid=2820180516001
+北京-黃花城水長城04,https://gcalic.v.myalicdn.com/gc/wgw04_1/index.m3u8?contentid=2820180516001
+北京-黃花城水長城03,https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8?contentid=2820180516001
+北京-黃花城水長城02,https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8?contentid=2820180516001
+北京-黃花城水長城01,https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
+北京-水立方,http://gcalic.v.myalicdn.com/gc/gccntv241-slf01_1/index.m3u8?contentid=2820180516001
+北京-南宮溫泉休閑度假區,http://gcalic.v.myalicdn.com/gc/tyhjntyz_1/index.m3u8?contentid=2820180516001
+全國風景總覽,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+安徽公共,http://zbbf2.ahtv.cn/live/752.m3u8
+安徽經濟,http://zbbf1.ahtv.cn/live/750.flv
+安徽科教,http://zbbf2.ahtv.cn/live/754.m3u8
+安徽人文,http://zbbf2.ahtv.cn/live/da9.m3u8
+安徽影視,http://zbbf1.ahtv.cn/live/756.flv
+安徽綜藝,http://zbbf2.ahtv.cn/live/758.m3u8
+福州少兒,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+福州生活,http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
+福州影視,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
+福州綜合,http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
+河源綜合,http://dslive.grtn.cn/hyzh/sd/live.m3u8
+揭陽綜合,http://dslive.grtn.cn/jyzh/sd/live.m3u8
+龍巖公共頻道,http://stream.lytv.net.cn/1/sd/live.m3u8
+龍巖新羅電視二套[1920*1200,http://stream.lyxltv.com/xinluotv/sd/live.m3u8
+龍巖新羅電視一套,http://stream.lyxltv.com/xltv/sd/live.m3u8
+龍巖新聞綜合,http://stream.lytv.net.cn/2/sd/live.m3u8
+茂名綜合,http://dslive.grtn.cn/mmzh/sd/live.m3u8
+梅州綜合,http://dslive.grtn.cn/mzzh/sd/live.m3u8
+三明公共頻道,http://stream.smntv.cn/smtv2/sd/live.m3u8
+三明新聞綜合,http://stream.smntv.cn/smtv1/sd/live.m3u8
+汕頭綜合,http://dslive.grtn.cn/stzh/playlist.m3u8
+汕尾綜合,http://dslive.grtn.cn/swzh/sd/live.m3u8
+韶關公共,http://dslive.grtn.cn/sgxwzhHD/sd/live.m3u8
+四川公共鄉村,http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
+四川經濟,http://scgctvshow.sctv.com/hdlive/sctv3/1.m3u8
+四川文化旅遊HD,http://scgctvshow.sctv.com/hdlive/sctv2/1.m3u8
+四川新聞頻道HD,http://scgctvshow.sctv.com/hdlive/sctv4/1.m3u8
+四川影視文化,http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
+西安白鴿,http://stream2.xiancity.cn/xatv2/sd/live.m3u8
+西安健康,http://stream2.xiancity.cn/xatv5/sd/live.m3u8
+西安新聞,http://stream2.xiancity.cn/xatv1/sd/live.m3u8
+西安影視,http://stream2.xiancity.cn/xatv4/sd/live.m3u8
+西安資訊,http://stream2.xiancity.cn/xatv3/sd/live.m3u8
+徐州-1,http://stream1.huaihai.tv/xwzh/playlist.m3u8
+徐州-3,http://stream1.huaihai.tv/wyys/playlist.m3u8
+陽江綜合,http://dslive.grtn.cn/yjzh/sd/live.m3u8
+雲浮綜合,http://dslive.grtn.cn/yfzh/sd/live.m3u8
+湛江綜合,http://dslive.grtn.cn/zjzh/sd/live.m3u8
+漳州新聞綜合,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
+浙江海鹽新聞頻道,http://haiyan.liveyun.hoge.cn/xwpd/sd/live.m3u8
+浙江教育台,http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+浙江經濟台,http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
+浙江錢江台,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+浙江少兒台,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
+浙江新聞台,http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+浙江休閑台,http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+浙江影視台,http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
+浙江舟山公共生活,http://live.wifizs.cn/ggsh/sd/live.m3u8
+浙江舟山群島旅遊,http://live.wifizs.cn/qdly/sd/live.m3u8
+浙江舟山新聞綜合,http://live.wifizs.cn/xwzh/sd/live.m3u8
+珠海生活,http://dslive.grtn.cn/zhzh/sd/live.m3u8
+浙江衛視,http://yd-m-l.cztv.com/channels/lantian/channel01/360p.m3u8?k=9a3c6262617bb137b19d7ed358f7430c&t=1571581414
+雲南衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225664/index.m3u8
+雲南衛視,http://183.207.248.71:80/cntv/live1/n-yntv1/n-yntv1
+雲南衛視,http://223.110.246.66/ott.js.chinamobile.com/PLTV/4/224/3221225838/index.m3u8
+延邊衛視,http://183.207.248.71:80/cntv/live1/SD-4000k-576P-yanbianstv/SD-4000k-576P-yanbianstv
+新疆衛視,http://183.207.248.71:80/cntv/live1/n-xjtv1/n-xjtv1
+新疆衛視,http://223.110.246.71/ott.js.chinamobile.com/PLTV/4/224/3221225844/index.m3u8
+西藏衛視,http://183.207.248.71:80/cntv/live1/n-xizangstv/n-xizangstv
+西藏衛視,http://223.110.246.72/ott.js.chinamobile.com/PLTV/4/224/3221226376/index.m3u8
+四川衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8
+四川衛視,http://183.207.248.71:80/cntv/live1/n-sichuanstv/n-sichuanstv
+四川衛視,http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221225814/index.m3u8
+陜西衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
+陜西衛視,http://183.207.248.71:80/cntv/live1/n-shanxi1stv/n-shanxi1stv
+陜西衛視,http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221227022/index.m3u8
+山西衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
+山西衛視,http://183.207.248.71:80/cntv/live1/n-shanxistv/n-shanxistv
+青海衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
+青海衛視,http://183.207.248.71:80/cntv/live1/n-qinghaistv/n-qinghaistv
+青海安多衛視,http://183.207.248.71:80/cntv/live1/anduostv/anduostv
+寧夏衛視,http://183.207.248.71:80/cntv/live1/n-ningxiastv/n-ningxiastv
+寧夏衛視,http://223.110.246.72/ott.js.chinamobile.com/PLTV/4/224/3221225842/index.m3u8
+內蒙古衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8
+內蒙古衛視,http://183.207.248.71:80/cntv/live1/n-neimenggustv/n-neimenggustv
+內蒙古衛視,http://223.110.246.72/ott.js.chinamobile.com/PLTV/4/224/3221225836/index.m3u8
+南方衛視,http://223.110.246.70/ott.js.chinamobile.com/PLTV/4/224/3221227005/index.m3u8
+遼寧衛視,http://183.207.248.71:80/cntv/live1/liaoningstv/liaoningstv
+康巴衛視,http://183.207.248.71:80/cntv/live1/SD-4000k-576P-kambatv/SD-4000k-576P-kambatv
+吉林衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225680/index.m3u8
+吉林衛視,http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221225883/index.m3u8
+河南衛視,http://183.207.248.71:80/cntv/live1/henanstv/henanstv
+河南衛視,http://223.110.246.68/ott.js.chinamobile.com/PLTV/4/224/3221225815/index.m3u8
+河北衛視,http://223.110.246.66/ott.js.chinamobile.com/PLTV/4/224/3221225840/index.m3u8
+海南衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8
+海南衛視,http://223.110.246.72/ott.js.chinamobile.com/PLTV/4/224/3221225810/index.m3u8
+貴州衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
+貴州衛視,http://183.207.248.71:80/cntv/live1/n-guizhoustv/n-guizhoustv
+貴州衛視,http://223.110.246.69/ott.js.chinamobile.com/PLTV/4/224/3221225787/index.m3u8
+廣西衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
+廣西衛視,http://183.207.248.71:80/cntv/live1/n-guangxistv/n-guangxistv
+廣西衛視,http://223.110.246.66/ott.js.chinamobile.com/PLTV/4/224/3221225806/index.m3u8
+甘肅衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225724/index.m3u8
+甘肅衛視,http://183.207.248.71:80/cntv/live1/n-gansustv/n-gansustv
+甘肅衛視,http://223.110.246.66/ott.js.chinamobile.com/PLTV/4/224/3221225846/index.m3u8
+兵團衛視,http://183.207.248.71:80/cntv/live1/SD-4000k-576P-bingtuanstv/SD-4000k-576P-bingtuanstv
+兵團衛視,http://223.110.246.66/ott.js.chinamobile.com/PLTV/4/224/3221227025/index.m3u8
+重慶衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
+重慶衛視,http://223.110.246.78/ott.js.chinamobile.com/PLTV/4/224/3221227632/index.m3u8
+重慶衛視,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-chongqingstv/HD-8000k-1080P-chongqingstv
+浙江衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8
+浙江衛視,http://183.207.248.71:80/cntv/live1/zhejiangstv/zhejiangstv
+天津衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225739/index.m3u8
+天津衛視,http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221227756/index.m3u8
+天津衛視,http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-tianjinstv/HD-2500k-1080P-tianjinstv
+深圳衛視,http://223.110.246.71/ott.js.chinamobile.com/PLTV/4/224/3221227695/index.m3u8
+深圳衛視,http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-shenzhenstv/HD-2500k-1080P-shenzhenstv
+山東衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8
+山東衛視,http://223.110.246.73/ott.js.chinamobile.com/PLTV/4/224/3221227697/index.m3u8
+山東衛視,http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-shandongstv/HD-2500k-1080P-shandongstv
+南方衛視,http://183.207.248.71:80/cntv/live1/SD-4000k-576P-nanfangstv/SD-4000k-576P-nanfangstv
+遼寧衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
+遼寧衛視,http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221227700/index.m3u8
+江西衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8
+江西衛視,http://223.110.245.151/ott.js.chinamobile.com/PLTV/4/224/3221227738/index.m3u8
+江西衛視,http://183.207.248.71:80/cntv/live1/jiangxistv/jiangxistv
+江蘇衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8
+江蘇衛視,http://223.110.246.82/ott.js.chinamobile.com/PLTV/4/224/3221227689/index.m3u8
+江蘇衛視,http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-jiangsustv/HD-2500k-1080P-jiangsustv
+湖南衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
+湖南衛視,http://223.110.246.72/ott.js.chinamobile.com/PLTV/4/224/3221227698/index.m3u8
+湖南衛視,http://183.207.248.71:80/cntv/live1/hunanstv/hunanstv
+湖北衛視,http://223.110.246.70/ott.js.chinamobile.com/PLTV/4/224/3221227703/index.m3u8
+湖北衛視,http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-hubeistv/HD-2500k-1080P-hubeistv
+黑龍江衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225736/index.m3u8
+黑龍江衛視,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-heilongjiangstv/HD-8000k-1080P-heilongjiangstv
+河北衛視,http://183.207.248.71:80/cntv/live1/n-hebeistv/n-hebeistv
+廣東衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225742/index.m3u8
+廣東衛視,http://223.110.246.73/ott.js.chinamobile.com/PLTV/4/224/3221227691/index.m3u8
+廣東衛視,http://183.207.248.71:80/cntv/live1/n-guangdongstv/n-guangdongstv
+東方衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
+東方衛視,http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221227688/index.m3u8
+東方衛視,http://183.207.248.71:80/cntv/live1/n-dongfangstv/n-dongfangstv
+北京衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
+北京衛視,http://223.110.246.72/ott.js.chinamobile.com/PLTV/4/224/3221227694/index.m3u8
+北京衛視,http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-beijingstv/HD-2500k-1080P-beijingstv
+北京紀實,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi
+安徽衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8
+安徽衛視,http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221227759/index.m3u8
+安徽衛視,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-anhuistv/HD-8000k-1080P-anhuistv
+SiTV新視覺 1080,http://140.207.241.2:8080/live/program/live/xsjhd/4000000/mnf.m3u8
+NewTV動畫王國,http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
+NewTV愛情喜劇,http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
+數碼時代高清,http://yd-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+華僑城FHD,http://117.156.28.119/270000001111/1110000028/index.m3u8
+東方影視FHD,http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
+珠峰基站4K,http://117.136.154.98/PLTV/88888888/224/3221225753/index.m3u8
+南方衛視高清2,http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
+內蒙衛視超清2,http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225836/index.m3u8
+西藏衛視高清2,http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
+新疆衛視高清2,http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
+寧夏衛視超清2,http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
+寧夏衛視超清1,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225842/index.m3u8
+雲南衛視超清1,http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225838/index.m3u8
+河南衛視超清2,http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8
+龍江衛視藍光1,http://39.134.116.30:8080/PLTV/88888910/224/3221225690/index.m3u8
+深圳衛視藍光2,http://223.110.243.171/PLTV/3/224/3221227217/index.m3u8
+深圳衛視藍光1,http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
+湖北衛視藍光3,http://223.110.243.171/PLTV/3/224/3221227211/index.m3u8
+東南衛視藍光3,http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
+東南衛視藍光1,http://117.169.124.37:6610/ysten-businessmobile/live/dongnanstv/yst.m3u8
+浙江衛視藍光2,http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8
+東方衛視藍光1,http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8
+天津衛視藍光1,http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8
+冬奧紀實,http://117.169.120.160:8080/live/HD-8000k-1080P-beijingjishi/1.m3u8
+歡笑劇場4K2,http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
+歡笑劇場4K1,http://223.110.243.212/PLTV/3/224/3221227715/index.m3u8
+CCTV-15高清,http://117.169.120.140:8080/live/cctv-15/.m3u8
+CCTV-13高清@1,http://117.169.120.140:8080/live/cctv-13/.m3u8
+CCTV-11高清,http://117.169.120.140:8080/live/cctv-11/.m3u8
+CCTV-4高清@1,http://117.169.120.140:8080/live/cctv-4/.m3u8
+CCTV2 HD,http://117.169.120.160:8080/live/cctv-2/1.m3u8
+純享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
+CCTV17農業農村,http://39.135.138.60:18890/PLTV/88888910/224/3221225908/index.m3u8
+CCTV14少兒,http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8
+CCTV12社會與法,http://39.135.138.60:18890/PLTV/88888910/224/3221225629/index.m3u8
+CCTV11戲曲,http://39.135.138.58:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV10科教,http://39.135.138.58:18890/PLTV/88888910/224/3221225627/index.m3u8
+CCTV9紀錄,http://39.135.138.60:18890/PLTV/88888910/224/3221225626/index.m3u8
+CCTV8電視劇,http://39.135.138.60:18890/PLTV/88888910/224/3221225631/index.m3u8
+CCTV6電影,http://39.135.138.60:18890/PLTV/88888910/224/3221225632/index.m3u8
+CCTV3綜藝,http://39.135.138.60:18890/PLTV/88888910/224/3221225634/index.m3u8
+CCTV2財經,http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
+央視台球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
+央視精品,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
+世界地理,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
+女性時尚,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls
+高爾夫網球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
+風雲足球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
+風雲劇場,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls
+電視指南,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
+第一劇場,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
+兵器科技,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
+風雲音樂,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
+懷舊劇場,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
+CCTV-17農業農村,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17
+CCTV-17農業農村,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+CCTV-17農業農村,http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
+CCTV-15音樂,http://183.207.248.71:80/cntv/live1/n-cctv-15/n-cctv-15
+CCTV-15音樂,http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
+CCTV-15音樂,http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
+CCTV-14少兒,http://117.136.154.68/PLTV/88888888/224/3221225509/index.m3u8
+CCTV-14少兒,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14
+CCTV-14少兒,http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
+CCTV-14少兒,http://39.135.138.59:18890/PLTV/88888910/224/3221225640/index.m3u8
+CCTV-13新聞,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-12社會與法,http://39.134.115.163:8080/PLTV/88888910/224/3221225629/index.m3u8
+CCTV-12社會與法,http://39.135.138.59:18890/PLTV/88888910/224/3221225629/index.m3u8
+CCTV-12社會與法,http://39.135.138.60:18890/PLTV/88888910/224/3221225637/index.m3u8
+CCTV-11戲曲,http://183.207.248.71:80/cntv/live1/n-cctv-11/n-cctv-11
+CCTV-11戲曲,http://39.134.115.163:8080/PLTV/88888910/224/3221225628/index.m3u8
+CCTV-11戲曲,http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV-10科教,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv10/HD-8000k-1080P-cctv10
+CCTV-10科教,http://39.134.115.163:8080/PLTV/88888910/224/3221225627/index.m3u8
+CCTV-10科教,http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+CCTV-10科教,http://39.135.138.60:18890/PLTV/88888910/224/3221225636/index.m3u8
+CCTV-9紀錄,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv9/HD-8000k-1080P-cctv9
+CCTV-9紀錄,http://39.134.115.163:8080/PLTV/88888910/224/3221225626/index.m3u8
+CCTV-9紀錄,http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+CCTV-9紀錄,http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8
+CCTV-8電視劇,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv8/HD-8000k-1080P-cctv8
+CCTV-8電視劇,http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
+CCTV-8電視劇,http://39.135.138.59:18890/PLTV/88888910/224/3221225631/index.m3u8
+CCTV-8電視劇,http://39.135.138.60:18890/PLTV/88888910/224/3221225635/index.m3u8
+CCTV-8電影,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
+CCTV-7國防軍事,http://117.136.154.68/PLTV/88888888/224/3221225504/index.m3u8
+CCTV-7國防軍事,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv7/HD-8000k-1080P-cctv7
+CCTV-7國防軍事,http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-7國防軍事,http://39.135.138.59:18890/PLTV/88888910/224/3221225644/index.m3u8
+CCTV-7國防軍事,http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-6電影,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
+CCTV-6電影,http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6
+CCTV-6電影,http://223.110.246.70/ott.js.chinamobile.com/PLTV/4/224/3221227430/index.m3u8
+CCTV-6電影,http://39.134.115.163:8080/PLTV/88888910/224/3221225650/index.m3u8
+CCTV-6電影,http://39.135.138.59:18890/PLTV/88888910/224/3221225632/index.m3u8
+CCTV-6電影,http://39.135.138.59:18890/PLTV/88888910/224/3221225650/index.m3u8
+CCTV-4國際,http://117.136.154.86/PLTV/88888888/224/3221225501/index.m3u8
+CCTV-4國際,http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4
+CCTV-4國際,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
+CCTV-4國際,http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
+CCTV-3綜藝,http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
+CCTV-3綜藝,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
+CCTV-3綜藝,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3
+CCTV-3綜藝,http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-3綜藝,http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
+CCTV-3綜藝,http://39.135.138.59:18890/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-2財經,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2
+CCTV-2財經,http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+CCTV-2財經,http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
+CCTV-2財經,http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
+CCTV-1綜合,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1
+CCTV-1綜合,http://223.110.245.170/PLTV/3/224/3221225530/index.m3u8
+CCTV-1綜合,http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
+CCTV-1綜合,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
+石景山有線,http://live.sjsrm.com/bjsjs/sd/live.m3u8
+北京通州,http://pull.dayuntongzhou.com/live/tztv.m3u8
+BTV財經,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=
+BTV科教,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=
+BTV生活,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=
+BTV青年,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8?time=
+BTV文藝,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=
+BTV影視,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=
+購物 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226231/index.m3u8
+購物 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226194/index.m3u8
+購物 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226192/index.m3u8
+咪咕視頻 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226190/index.m3u8
+咪咕視頻 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226102/index.m3u8
+咪咕視頻 5M1080,http://39.134.39.39/PLTV/88888888/224/3221226188/index.m3u8
+咪咕視頻 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226229/index.m3u8
+咪咕視頻 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226225/index.m3u8
+咪咕視頻 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226223/index.m3u8
+咪咕視頻 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226221/index.m3u8
+咪咕視頻 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226219/index.m3u8
+咪咕視頻 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226217/index.m3u8
+咪咕視頻 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226215/index.m3u8
+咪咕視頻 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226196/index.m3u8
+咪咕視頻 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226125/index.m3u8
+咪咕視頻 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226123/index.m3u8
+咪咕視頻 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226112/index.m3u8
+咪咕視頻 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226110/index.m3u8
+咪咕視頻 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226108/index.m3u8
+咪咕視頻 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226106/index.m3u8
+咪咕視頻 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226104/index.m3u8
+百視通體育 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226145/index.m3u8
+百事通體育 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226153/index.m3u8
+百事通體育 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226149/index.m3u8
+百事通體育 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226147/index.m3u8
+百事通體育 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226141/index.m3u8
+百事通體育 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226138/index.m3u8
+百事通體育 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226136/index.m3u8
+百事通體育 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226134/index.m3u8
+百事通體育 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226132/index.m3u8
+百事通體育 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226130/index.m3u8
+蘭州綜藝體育 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226246/index.m3u8
+蘭州生活經濟 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226285/index.m3u8
+蘭州新聞綜合 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226242/index.m3u8
+蘭州公共 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226244/index.m3u8
+甘肅都市 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226248/index.m3u8
+甘肅經濟 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226252/index.m3u8
+甘肅文化影視 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226287/index.m3u8
+甘肅少兒 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226289/index.m3u8
+甘肅公共應急 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226250/index.m3u8
+上海紀實人文 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226174/index.m3u8
+上海第一財經 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226172/index.m3u8
+上海外語 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226201/index.m3u8
+SiTV都市劇場 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
+SiTV遊戲風雲 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226187/index.m3u8
+SiTV歡笑劇場 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8
+SiTV極速汽車 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8
+SiTV動漫秀場 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
+黑龍江衛視 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226142/index.m3u8
+遼寧衛視 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226209/index.m3u8
+甘肅衛視 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
+湖南衛視 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226193/index.m3u8
+湖北衛視 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226159/index.m3u8
+深圳衛視 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226199/index.m3u8
+浙江衛視 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226144/index.m3u8
+江西衛視 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226207/index.m3u8
+江蘇衛視 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226157/index.m3u8
+廣東衛視 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226180/index.m3u8
+山東衛視 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226162/index.m3u8
+天津衛視 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226303/index.m3u8
+天津衛視 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226191/index.m3u8
+北京衛視 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226161/index.m3u8
+東方衛視 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226155/index.m3u8
+東南衛視 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226182/index.m3u8
+IPTV5+ 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226273/index.m3u8
+CCTV14 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226166/index.m3u8
+CCTV10 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226164/index.m3u8
+CCTV8 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
+CCTV8 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226150/index.m3u8
+CCTV6 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
+CCTV6 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226148/index.m3u8
+CCTV5 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226151/index.m3u8
+CCTV5 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226146/index.m3u8
+CCTV2 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV1 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226247/index.m3u8
+5G購 2M1080,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227896/index.m3u8
+江蘇好享購物 4M1080,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227570/index.m3u8
+江西風尚購物 4M1080,http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227539/index.m3u8
+央廣購物 2.5M1080,http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227532/index.m3u8
+睢寧資訊 2.5M1080,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227712/index.m3u8
+睢寧綜合 2.5M1080,http://223.110.245.150/ott.js.chinamobile.com/PLTV/3/224/3221227706/index.m3u8
+睢寧生活教育 2.5M1080,http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227701/index.m3u8
+睢寧三農 2.5M1080,http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227709/index.m3u8
+沛縣生活 2.5M1080,http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221227611/index.m3u8
+儀化有線 3M1080,http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227702/index.m3u8
+北京紀實,http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227711/index.m3u8
+上海紀實人文,http://223.110.245.156/ott.js.chinamobile.com/PLTV/3/224/3221227674/index.m3u8
+NewTV明星大片 4M1080,http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227594/index.m3u8
+NewTV金牌綜藝 4M1080,http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227541/index.m3u8
+NewTV精品紀錄 4M1080,http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227547/index.m3u8
+NewTV精品大劇 4M1080,http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227618/index.m3u8
+NewTV精品體育 4M1080,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227615/index.m3u8
+NewTV愛情喜劇 4M1080,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227548/index.m3u8
+NewTV武搏世界 4M1080,http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227533/index.m3u8
+NewTV驚悚懸疑 4M1080,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227536/index.m3u8
+NewTV家庭劇場 4M1080,http://223.110.243.164/ott.js.chinamobile.com/PLTV/3/224/3221227600/index.m3u8
+NewTV古裝劇場 4M1080,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227542/index.m3u8
+NewTV動作電影 4M1080,http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227606/index.m3u8
+NewTV農業致富 4M1080,http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227588/index.m3u8
+NewTV軍旅劇場 4M1080,http://223.110.243.142/ott.js.chinamobile.com/PLTV/3/224/3221227603/index.m3u8
+NewTV軍事評論 4M1080,http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227544/index.m3u8
+NewTV怡伴健康 4M1080,http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227612/index.m3u8
+NewTV中國功夫 4M1080,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227530/index.m3u8
+NewTV潮媽辣婆,http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227527/index.m3u8
+SiTV都市劇場,http://223.110.243.160/ott.js.chinamobile.com/PLTV/3/224/3221227710/index.m3u8
+SiTV動漫秀場 4M1080,http://223.110.245.146/ott.js.chinamobile.com/PLTV/3/224/3221227774/index.m3u8
+黑龍江衛視 8M1080,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227638/index.m3u8
+黑龍江衛視 3M1080,http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227323/index.m3u8
+黑龍江衛視 3.5M1080,http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221227252/index.m3u8
+重慶衛視 4M1080,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227550/index.m3u8
+遼寧衛視 8M1080,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227410/index.m3u8
+遼寧衛視 5M1080HEVC,http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227700/index.m3u8
+湖南衛視 5.5M1080HEVC,http://223.110.245.152/ott.js.chinamobile.com/PLTV/3/224/3221227735/index.m3u8
+湖南衛視 5M1080HEVC,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227698/index.m3u8
+湖北衛視 5M1080HEVC,http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227703/index.m3u8
+湖北衛視 4M1080,http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227565/index.m3u8
+湖北衛視 3M1080,http://223.110.245.166/ott.js.chinamobile.com/PLTV/3/224/3221227377/index.m3u8
+深圳衛視 5M1080HEVC,http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227695/index.m3u8
+深圳衛視 4M1080,http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227624/index.m3u8
+浙江衛視 Max16M1080,http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227491/index.m3u8
+浙江衛視 5M1080HEVC,http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227692/index.m3u8
+浙江衛視 5.5M1080HEVC,http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227744/index.m3u8
+浙江衛視 3M1080,http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221227393/index.m3u8
+江西衛視 5.5M1080HEVC,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227738/index.m3u8
+江蘇衛視,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227668/index.m3u8
+江蘇衛視 5M1080HEVC,http://223.110.245.150/ott.js.chinamobile.com/PLTV/3/224/3221227689/index.m3u8
+江蘇衛視 4M1080,http://223.110.245.152/ott.js.chinamobile.com/PLTV/3/224/3221227561/index.m3u8
+廣東衛視 Max16M1080,http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221227476/index.m3u8
+廣東衛視 8M1080,http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227445/index.m3u8
+廣東衛視 4M1080,http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227591/index.m3u8
+山東衛視 8M1080,http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227258/index.m3u8
+山東衛視 4M1080,http://223.110.243.156/ott.js.chinamobile.com/PLTV/3/224/3221227621/index.m3u8
+天津衛視 5.5M1080HEVC,http://223.110.245.166/ott.js.chinamobile.com/PLTV/3/224/3221227741/index.m3u8
+天津衛視 4M1080,http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227633/index.m3u8
+天津衛視 4M1080,http://223.110.245.140/ott.js.chinamobile.com/PLTV/3/224/3221227212/index.m3u8
+天津衛視 3M1080,http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227382/index.m3u8
+東方衛視 Max16M1080,http://223.110.245.146/ott.js.chinamobile.com/PLTV/3/224/3221227511/index.m3u8
+東方衛視 5M1080HEVC,http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227688/index.m3u8
+東方衛視 5.5M1080HEVC,http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227732/index.m3u8
+東方衛視 4M1080,http://223.110.243.142/ott.js.chinamobile.com/PLTV/3/224/3221227597/index.m3u8
+東南衛視 4M1080,http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227553/index.m3u8
+東南衛視,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227670/index.m3u8
+天津衛視,http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227756/index.m3u8
+山東衛視,http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227671/index.m3u8
+廣東衛視,http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227673/index.m3u8
+深圳衛視,http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227677/index.m3u8
+湖北衛視,http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227665/index.m3u8
+遼寧衛視,http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227676/index.m3u8
+重慶衛視,http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227729/index.m3u8
+黑龍江衛視,http://223.110.243.142/ott.js.chinamobile.com/PLTV/3/224/3221227662/index.m3u8
+浙江衛視,http://39.135.138.60:18890/PLTV/88888910/224/3221225703/index.m3u8
+CCTV17 4M1080,http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227589/index.m3u8
+CCTV15 3.5M1080,http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227538/index.m3u8
+CCTV17,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
+CCTV13 4M1080,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227601/index.m3u8
+CCTV12 8M1080,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227637/index.m3u8
+CCTV10 3M1080,http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227317/index.m3u8
+CCTV10 8M1080,http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227620/index.m3u8
+CCTV15,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
+CCTV11 2.5M1080,http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227524/index.m3u8
+CCTV14,http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227656/index.m3u8
+CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
+CCTV12,http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227655/index.m3u8
+CCTV8,http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227629/index.m3u8
+CCTV7,http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227690/index.m3u8
+CCTV6,http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227664/index.m3u8
+CCTV4,http://223.110.245.142/ott.js.chinamobile.com/PLTV/3/224/3221227658/index.m3u8
+CCTV1,http://223.110.243.159/ott.js.chinamobile.com/PLTV/3/224/3221227725/index.m3u8

@@ -1,0 +1,285 @@
+请知悉：
+1、书签数据属于隐私，请妥善保存，勿分享给其他人。分享和传播非法内容将受到法律制裁。
+2、请勿导入其他人的备份数据，如果因为导入其他人的备份数据导致的隐私泄露和法律风险由您自己承担。
+3、如果导入文件无效，您可以直接复制下面的内容，在app中的备份管理中点击恢复即可
+
+
+-----BEGIN BOOKMARK-----
+{
+  "version" : "5.7.2",
+  "description" : "感谢大家对书签的支持",
+  "explore" : [
+    {
+      "selected" : true,
+      "name" : "蓝光解析",
+      "url" : "https://1.api.80tvs.cn/?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "淘影",
+      "url" : "https://jx.1080jx.top/m3u8/?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "夜幕",
+      "url" : "https://www.yemu.xyz/?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "迪奥",
+      "url" : "http://123.1dior.cn/?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "YITV",
+      "url" : "http://jiexi.us/?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "huxin",
+      "url" : "http://jiexi.huxinjiaoyi.com/?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "口袋",
+      "url" : "https://jx.4kdv.com/?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "夜幕",
+      "url" : "http://www.yemu.xyz/?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "思云1",
+      "url" : "https://api.ap2p.cn/?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "51",
+      "url" : "https://api.51jiexi.xyz/?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "178du",
+      "url" : "http://jx.178du.com/jx2.php?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "king",
+      "url" : "http://jiexi.kingsnug.cn/tx.php?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "par",
+      "url" : "https://vip.parwix.com:4433/player/?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "七哥",
+      "url" : "https://jx.mmkv.cn/tv.php?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "yparse",
+      "url" : "https://yparse.jn1.cc/index.php?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "bk",
+      "url" : "https://api.08bk.com/vip/?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "rdhk",
+      "url" : "https://jx.rdhk.net/?v=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "BL",
+      "url" : "https://vip.bljiex.com/?v=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "pangu新2",
+      "url" : "https://panguapi.ntryjd.net/jiexi/?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "1717云",
+      "url" : "https://www.1717yun.com/jiexi/?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "m3u8",
+      "url" : "https://jx.m3u8.tv/jiexi/?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "解析啦",
+      "url" : "https://api.jiexi.la/?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "8090",
+      "url" : "https://www.8090.la/api/?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "万迅",
+      "url" : "http://www.wanxun.vip/jiexi/?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "步步高",
+      "url" : "http://jx.yparse.com/index.php?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "天龙",
+      "url" : "https://cdn.zyc888.top/?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "云",
+      "url" : "https://jx.yparse.com/index.php?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "维多",
+      "url" : "https://jx.ivito.cn/?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "1717",
+      "url" : "https://www.1717yun.com/jx/ty.php?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "1717",
+      "url" : "https://1717.ntryjd.net/jx/tyjx.php?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "parwix",
+      "url" : "https://vip.parwix.com:4433/player/analysis.php?v=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "七星",
+      "url" : "https://jx.jsij.cn/?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "冰豆",
+      "url" : "https://api.bingdou.wang/?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "七夕",
+      "url" : "https://1.api.80tvs.cn/?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "福星1",
+      "url" : "https://jx.xuetuiguang.cn/jiexi/?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "快播",
+      "url" : "https://vip.qvod.us/?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "首义",
+      "url" : "http://jx.shouyihuo.top/?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "冰豆云播",
+      "url" : "https://vod.bingdou.xyz/?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "Web Player",
+      "url" : "http://cdn.zyc888.top/?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "解析啦",
+      "url" : "http://api.jiexi.la/?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "爱看解析",
+      "url" : "http://jx.koonet.com/?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "playm3u8解析",
+      "url" : "https://www.playm3u8.cn/jiexi.php?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "可乐",
+      "url" : "https://m3u8.klysw.cn/m3u8.php?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "椰子",
+      "url" : "http://jxa.zgco.com.cn/?url=",
+      "referer" : ""
+    },
+    {
+      "selected" : true,
+      "name" : "H8",
+      "url" : "https://www.h8jx.com/jiexi.php?url=",
+      "referer" : ""
+    }
+  ],
+  "from" : "20190927150855580"
+}
+-----END BOOKMARK-----

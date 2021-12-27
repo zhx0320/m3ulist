@@ -1,0 +1,262 @@
+﻿#EXTM3U         
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031582930276337.png",四川文化旅游
+http://scgctvshow.sctv.com/hdlive/sctv2/index.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031583013117037.png",四川经济
+http://scgctvshow.sctv.com/hdlive/sctv3/index.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031583488284000.png",四川影视文艺频道
+http://scgctvshow.sctv.com/hdlive/sctv5/index.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031583604507485.png",四川星空购物频道
+http://scgctvshow.sctv.com/hdlive/sctv6/index.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031583712926914.png",四川妇女儿童频道
+http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SCTV8/SCTV8_140x140.png",峨嵋电影频道
+http://scgctvshow.sctv.com/hdlive/emei/index.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020190505398080699973.png",四川公共频道
+http://scgctvshow.sctv.com/hdlive/sctv9/index.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031600928497907.png",四川康巴卫视
+http://scgctvshow.sctv.com/hdlive/kangba/index.m3u8
+#EXTINF:-1 group-title="四川移动组播",欢笑剧场
+http://183.207.248.71/gitv/live1/HD-15M-2160P-jshuanxiaojc/HD-15M-2160P-jshuanxiaojc
+#EXTINF:-1 group-title="四川移动组播",MTV Yo!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+#EXTINF:-1 group-title="四川移动组播",MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 group-title="四川移动组播",MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1 group-title="四川移动组播",MTV Spankin' New
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:-1 group-title="四川移动组播",MTV WMA
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:-1 group-title="四川移动组播",MTV
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS06/master.m3u8
+#EXTINF:-1 group-title="四川移动组播",MTV
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
+#EXTINF:-1 group-title="四川移动组播",MTV
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS05/master.m3u8
+#EXTINF:-1 group-title="四川移动组播",CCTV-中文国际美洲频道
+http://cctvalih5ca.v.myalicdn.com/live/cctvamerica_2/index.m3u8
+#EXTINF:-1 group-title="四川移动组播",CCTV-中文国际欧洲频道
+http://cctvalih5ca.v.myalicdn.com/live/cctveurope_2/index.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png",宁夏卫视
+http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=6
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png",甘肃卫视
+http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
+#EXTINF:-1 group-title="四川移动组播",南安电视
+http://natv.cnjrna.com:3000/channel/sovp/1000000000000018/video_1564_none.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="四川移动组播",晋江电视
+http://stream.jinjiang.tv/1/sd/live.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png",青海卫视
+http://live.geermurmt.com/qhws/sd/live.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png",新视觉
+http://125.210.152.21:9120/live/XSJHD.m3u8
+#EXTINF:-1 group-title="四川移动组播",甘肃少儿
+http://39.134.39.37/PLTV/88888888/224/3221226289/index.m3u8
+#EXTINF:-1 group-title="四川移动组播",甘肃文化影视
+http://39.134.39.37/PLTV/88888888/224/3221226287/index.m3u8
+#EXTINF:-1 group-title="四川移动组播",甘肃经济
+http://39.134.39.37/PLTV/88888888/224/3221226252/index.m3u8
+#EXTINF:-1 group-title="四川移动组播",公共应急
+http://39.134.39.37/PLTV/88888888/224/3221226250/index.m3u8
+#EXTINF:-1 group-title="四川移动组播",甘肃都市
+http://39.134.39.37/PLTV/88888888/224/3221226248/index.m3u8
+#EXTINF:-1 group-title="四川移动组播",兰州新闻
+http://39.134.39.37/PLTV/88888888/224/3221226242/index.m3u8
+#EXTINF:-1 group-title="四川移动组播",兰州公共
+http://39.134.39.37/PLTV/88888888/224/3221226244/index.m3u8
+#EXTINF:-1 group-title="四川移动组播",兰州综艺体育
+http://39.134.39.37/PLTV/88888888/224/3221226246/index.m3u8
+#EXTINF:-1 group-title="四川移动组播",兰州生活经济
+http://39.134.39.37/PLTV/88888888/224/3221226285/index.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://www.right.com.cn/forum/data/attachment/forum/202009/20/155908h8ejsftjllb6tavb.jpg",巴州电视
+http://30814.hlsplay.aodianyun.com/tv_radio_30814/tv_channel_1839.m3u8
+#EXTINF:-1 group-title="四川移动组播",阿里郎国际频道
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="四川移动组播",华数_李子柒高清
+http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
+#EXTINF:-1 group-title="四川移动组播",Y+
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
+#EXTINF:-1  tvg-logo="http://www.daai.tv/images/logo.png",大愛1
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://www.cns.net.tw/web/upload/20141017171303RmzVY9Z.png",大愛2
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="http://www.daai.tv/images/logo.png",大愛海外
+https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://static.epg.best/au/SKYRacing.au.png",Sky 1 Racing
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://static.epg.best/au/SKYRacing.au.png",Sky 2 Racing
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="http://ndhsaanow.com/uploads/images/bek_sports_LOGO.jpg",Bek Sports West
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png",One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="http://www.golfnetwork.co.jp/assets/img/pc/layout/header/logo_new.png",ゴルフネットワーク
+http://203.162.235.41:16924
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/icons/live/duabi-racing-2-live.png",Dubai Racing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/5bfea86c98.png",Dubai Racing 3
+http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://www.admedia.ae/images/Brands/20202231158324351.png",Abu Dhabi Al Oula
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://www.admedia.ae/images/Brands/202022311591540MQ.png",Abu Dhabi Drama
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://www.admedia.ae/images/Brands/202022311593025IL.png",Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://www.admedia.ae/images/Brands/2020223115944993BD.png",Abu Dhabi Sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://www.admedia.ae/images/Brands/20202231159595728K.png",Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://www.admedia.ae/images/Brands/20202231201493129.png",Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="http://natgeotv.com/App_Resources2/Themes/2012/Images/Main/natgeo-abudhabi-hd.png",National Geographic Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_Dubai_TV.png",Dubai TV
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://static.epg.best/us/KBSWorld.us.png",KBS World
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/323_300.png",南国都市4K
+http://116.199.5.51:8114/00000000/index.m3u8?=&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=123&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://blog.roku.com/wp-content/uploads/2015/11/CNNgo-logo.png",CNN Go
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="http://www.aljazeera.com/assets/images/aj-logo-lg-124.png",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tv5monde.png",TV5 MONDE OPT 3
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="http://static.epg.best/uk/SkyNews.uk.png",Sky News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+#EXTINF:-1 group-title="四川移动组播",National Geographic Wild HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 group-title="四川移动组播",Bollywood HD
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eurosport.png",Eurosport 4K
+http://a3569457550-zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw20000000/playlist.m3u8
+#EXTINF:-1 group-title="四川移动组播",LOVE NATURE 4K UHD
+http://a3569457544-zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw20000000/playlist.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="http://www.bloomberght.com/images/logo.png",Bloomberg HT
+https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+#EXTINF:-1 group-title="四川移动组播",yy电影
+http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+#EXTINF:-1 group-title="四川移动组播",yy影视
+http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+#EXTINF:-1 group-title="四川移动组播",金马影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="四川移动组播",狗狗宠物
+http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+#EXTINF:-1 group-title="四川移动组播",法国时尚
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+#EXTINF:-1 group-title="四川移动组播",内蒙文体娱乐
+http://live4.m2oplus.nmtv.cn/8/sd/live.m3u8
+#EXTINF:-1 group-title="四川移动组播",大庆新闻综合
+http://39.134.65.208/PLTV/88888888/224/3221225736/index.m3u8
+#EXTINF:-1 group-title="四川移动组播",哈尔滨资讯
+http://39.134.65.208/PLTV/88888888/224/3221225697/index.m3u8
+#EXTINF:-1 group-title="四川移动组播",浙江影视
+http://yd-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
+#EXTINF:-1 group-title="四川移动组播",浙江卫视
+http://yd-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 group-title="四川移动组播",浙江钱江电视
+http://yd-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 group-title="四川移动组播",浙江经济生活
+http://yd-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 group-title="四川移动组播",浙江教育经济
+http://yd-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 group-title="四川移动组播",浙江6频道
+http://yd-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 group-title="四川移动组播",浙江公共
+http://yd-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 group-title="四川移动组播",浙江少儿
+http://yd-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 group-title="四川移动组播",留学世界
+http://yd-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
+#EXTINF:-1 group-title="四川移动组播",浙江国际
+http://yd-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 group-title="四川移动组播",杭州HTV-1HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229307/index.m3u8
+#EXTINF:-1 group-title="四川移动组播",杭州HTV-2HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229310/index.m3u8
+#EXTINF:-1 group-title="四川移动组播",杭州HTV-3HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229313/index.m3u8
+#EXTINF:-1 group-title="四川移动组播",杭州HTV-4HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8
+#EXTINF:-1 group-title="四川移动组播",杭州HTV-5HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229316/index.m3u8
+#EXTINF:-1 group-title="四川移动组播",厦门综合
+http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xiamen1_2/index.m3u8
+#EXTINF:-1 group-title="四川移动组播",厦门海峡
+http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xiamen2_2/index.m3u8
+#EXTINF:-1 group-title="四川移动组播",厦门生活
+http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xiamen3_2/index.m3u8
+#EXTINF:-1 group-title="四川移动组播",厦门影视
+http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xiamen4_2/index.m3u8
+#EXTINF:-1 group-title="四川移动组播",滨海综合
+http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/tianjinbh_2/index.m3u8
+#EXTINF:-1 group-title="四川移动组播",滨海生活
+http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/tianjinbh2_2/index.m3u8
+#EXTINF:-1 group-title="四川移动组播",新科动漫
+http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2/index.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://www.cne-eg.com/uploads/logos/20183142627377.png",Al Kass Sports 1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://www.cne-eg.com/uploads/logos/20183142948397.png",Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://www.cne-eg.com/uploads/logos/20183142520385.png",Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://www.cne-eg.com/uploads/logos/2018314320255.png",Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ksa-channel_logo.png",Al Saudiya
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
+#EXTINF:-1 group-title="日本" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/1920px-NHK_General_TV_logo.svg.png",NHK総合
+http://203.162.235.41:16903
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NHK_Educational_TV_logo.svg/1200px-NHK_Educational_TV_logo.svg.png",NHK教育
+http://203.162.235.41:16901
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/Q1_%281%29.jpg",NHK BSプレミアム
+http://203.162.235.41:16910
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://static.epg.best/jp/Asahi1.jp.png",テレビ朝日
+http://203.162.235.41:16906
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://static.epg.best/jp/TVTokyo.jp.png",テレビ東京
+http://203.162.235.41:16908
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://www.abu.org.my/images/articles/news/tbs_logo.jpg",TBSテレビ
+http://203.162.235.41:16907
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/150px-Fuji_TV_logo.svg.png",フジテレビ
+http://203.162.235.41:16904
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://static.epg.best/jp/NipponTV.jp.png",日テレ
+http://203.162.235.41:16905
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://static.epg.best/jp/BSTBS.jp.png",BS TBS
+http://203.162.235.41:16913
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://www.bs-asahi.co.jp/wordpress/wp-content/themes/bs-master/img/no_image.png",BS 朝日
+http://203.162.235.41:16914
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://www.bsfuji.tv/top/common/img/head_logo.png",BSフジ
+http://203.162.235.41:16911
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://www.tv-tokyo.co.jp/information/blog/images/24606404907f11e880a6cbdce0444b13.jpg",BS 東京
+http://203.162.235.41:16915
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/400px-BS4_logo.svg.png",BS 日テレ
+http://203.162.235.41:16912
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://www.abu.org.my/images/articles/news/tbs_logo.jpg",シネフィルWOWOW
+http://203.162.235.41:16916
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/thai-pbs-png-6.png",Thai PBS 3
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://www.freeetv.com/images/03_logo/M_channel_thailand.jpg",M Channel
+http://27.254.142.207:8080/live/web.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/05/TVB-%E0%B9%84%E0%B8%97%E0%B8%A2-logo-08042020.png",TVB Thai
+https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://www.thairath.co.th/assets/2017/img/logo-tv.png",Thairath TV
+https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/06/voice-tv2.png",Voice TV
+https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/chunklist_w142679599.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://tv.mcot.net/static/img/logo-mcothd.png",MCOT HD
+http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/nbt.png",NBT 2 HD
+http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="http://static.epg.best/us/FoxNews.us.png",Fox News(美国)
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SRW/SRH_425x243.png",Sky Thoroughbred Central
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png",MLB Network
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://static.epg.best/kr/YTN.kr.png",YTN
+http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://static.epg.best/kr/YTNScience.kr.png",YTN Science
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+#EXTINF:-1 group-title="四川移动组播" tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png",亚洲新闻台(CNA)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+更多好货请加qq群：9918545
